@@ -1,0 +1,4260 @@
+{
+  "version": 1,
+  "book": {
+    "title": "كتاب البايثون بالعربي",
+    "author": "المهندس حسن صفوان حجار",
+    "pages": 169,
+    "note": {
+      "ar": "اعتمد ترتيب الصفحات الفعلية؛ الفهرس المضاف لا يطابق المحتوى. النص الأصلي محفوظ بصريًا، والشرح النصي هنا صياغة تعليمية مراجعة، والتمارين من إعداد المشروع.",
+      "en": "Actual page order is authoritative; the added contents page does not match. Original text is preserved visually. Lesson summaries are reviewed paraphrases; exercises are project-authored."
+    }
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "title": {
+        "ar": "البداية: اكتشف بايثون",
+        "en": "Discover Python"
+      },
+      "start": 3,
+      "end": 4
+    },
+    {
+      "id": 2,
+      "title": {
+        "ar": "بايثون واللغات الأخرى",
+        "en": "Python and other languages"
+      },
+      "start": 5,
+      "end": 16
+    },
+    {
+      "id": 3,
+      "title": {
+        "ar": "بيئة بايثون وبناء الجملة",
+        "en": "Setup and syntax"
+      },
+      "start": 17,
+      "end": 21
+    },
+    {
+      "id": 4,
+      "title": {
+        "ar": "التعليقات",
+        "en": "Comments"
+      },
+      "start": 22,
+      "end": 23
+    },
+    {
+      "id": 5,
+      "title": {
+        "ar": "المتغيرات",
+        "en": "Variables"
+      },
+      "start": 24,
+      "end": 30
+    },
+    {
+      "id": 6,
+      "title": {
+        "ar": "أنواع البيانات",
+        "en": "Data types"
+      },
+      "start": 31,
+      "end": 38
+    },
+    {
+      "id": 7,
+      "title": {
+        "ar": "الأعداد والتحويل",
+        "en": "Numbers and casting"
+      },
+      "start": 39,
+      "end": 41
+    },
+    {
+      "id": 8,
+      "title": {
+        "ar": "السلاسل النصية",
+        "en": "Strings"
+      },
+      "start": 42,
+      "end": 58
+    },
+    {
+      "id": 9,
+      "title": {
+        "ar": "القيم المنطقية",
+        "en": "Booleans"
+      },
+      "start": 59,
+      "end": 61
+    },
+    {
+      "id": 10,
+      "title": {
+        "ar": "المعاملات",
+        "en": "Operators"
+      },
+      "start": 62,
+      "end": 67
+    },
+    {
+      "id": 11,
+      "title": {
+        "ar": "القوائم",
+        "en": "Lists"
+      },
+      "start": 68,
+      "end": 81
+    },
+    {
+      "id": 12,
+      "title": {
+        "ar": "الصفوف الثابتة",
+        "en": "Tuples"
+      },
+      "start": 82,
+      "end": 89
+    },
+    {
+      "id": 13,
+      "title": {
+        "ar": "المجموعات",
+        "en": "Sets"
+      },
+      "start": 90,
+      "end": 103
+    },
+    {
+      "id": 14,
+      "title": {
+        "ar": "القواميس",
+        "en": "Dictionaries"
+      },
+      "start": 104,
+      "end": 114
+    },
+    {
+      "id": 15,
+      "title": {
+        "ar": "الشروط",
+        "en": "Conditions"
+      },
+      "start": 115,
+      "end": 118
+    },
+    {
+      "id": 16,
+      "title": {
+        "ar": "الحلقات",
+        "en": "Loops"
+      },
+      "start": 119,
+      "end": 122
+    },
+    {
+      "id": 17,
+      "title": {
+        "ar": "الدوال",
+        "en": "Functions"
+      },
+      "start": 123,
+      "end": 131
+    },
+    {
+      "id": 18,
+      "title": {
+        "ar": "المصفوفات باستخدام القوائم",
+        "en": "Arrays using lists"
+      },
+      "start": 132,
+      "end": 134
+    },
+    {
+      "id": 19,
+      "title": {
+        "ar": "الأصناف والكائنات",
+        "en": "Classes and objects"
+      },
+      "start": 135,
+      "end": 140
+    },
+    {
+      "id": 20,
+      "title": {
+        "ar": "الوراثة",
+        "en": "Inheritance"
+      },
+      "start": 141,
+      "end": 146
+    },
+    {
+      "id": 21,
+      "title": {
+        "ar": "تعدد الأشكال",
+        "en": "Polymorphism"
+      },
+      "start": 147,
+      "end": 149
+    },
+    {
+      "id": 22,
+      "title": {
+        "ar": "نطاق المتغيرات",
+        "en": "Scope"
+      },
+      "start": 150,
+      "end": 152
+    },
+    {
+      "id": 23,
+      "title": {
+        "ar": "الوحدات",
+        "en": "Modules"
+      },
+      "start": 153,
+      "end": 154
+    },
+    {
+      "id": 24,
+      "title": {
+        "ar": "الرياضيات",
+        "en": "Math"
+      },
+      "start": 155,
+      "end": 156
+    },
+    {
+      "id": 25,
+      "title": {
+        "ar": "الاستثناءات",
+        "en": "Exceptions"
+      },
+      "start": 157,
+      "end": 159
+    },
+    {
+      "id": 26,
+      "title": {
+        "ar": "الملفات",
+        "en": "Files"
+      },
+      "start": 160,
+      "end": 163
+    },
+    {
+      "id": 27,
+      "title": {
+        "ar": "بيانات JSON",
+        "en": "JSON"
+      },
+      "start": 164,
+      "end": 169
+    }
+  ],
+  "lessons": [
+    {
+      "id": "c01-l001",
+      "chapter": 1,
+      "page": 3,
+      "title": {
+        "ar": "ما هي بايثون؟ وتاريخها",
+        "en": "What is Python? Its origins"
+      },
+      "explanation": {
+        "ar": "يقدّم الكتاب بايثون بوصفها لغة عالية المستوى، مفتوحة المصدر ومتعددة الاستخدامات. طوّرها غيدو فان روسم، وكان أول إصدار عام لها سنة 1991.",
+        "en": "The book introduces Python as a high-level, open-source, general-purpose language, created by Guido van Rossum and first released in 1991."
+      },
+      "kind": "theory",
+      "questions": [
+        {
+          "prompt": {
+            "ar": "أي وصف يناسب بايثون؟",
+            "en": "Which description fits Python?"
+          },
+          "options": [
+            {
+              "ar": "لغة برمجة متعددة الاستخدامات",
+              "en": "General-purpose programming language"
+            },
+            {
+              "ar": "برنامج للرسم فقط",
+              "en": "Only a drawing tool"
+            },
+            {
+              "ar": "نظام تشغيل",
+              "en": "Operating system"
+            }
+          ],
+          "answer": 0,
+          "why": {
+            "ar": "تُستخدم بايثون لبناء برامج في مجالات مختلفة؛ ليست برنامج رسم أو نظام تشغيل.",
+            "en": "Python builds programs in many domains; it is not an operating system or drawing application."
+          }
+        },
+        {
+          "prompt": {
+            "ar": "من طوّر بايثون؟",
+            "en": "Who created Python?"
+          },
+          "options": [
+            {
+              "ar": "غيدو فان روسم",
+              "en": "Guido van Rossum"
+            },
+            {
+              "ar": "جيمس غوسلينغ",
+              "en": "James Gosling"
+            },
+            {
+              "ar": "برندان آيك",
+              "en": "Brendan Eich"
+            }
+          ],
+          "answer": 0,
+          "why": {
+            "ar": "غيدو فان روسم هو مطوّر بايثون؛ الاسمان الآخران مرتبطان بجافا وجافاسكربت.",
+            "en": "Guido created Python; the other names are associated with Java and JavaScript."
+          }
+        },
+        {
+          "prompt": {
+            "ar": "متى ظهر أول إصدار عام؟",
+            "en": "When was the first public release?"
+          },
+          "options": [
+            {
+              "ar": "1991",
+              "en": "1991"
+            },
+            {
+              "ar": "2010",
+              "en": "2010"
+            },
+            {
+              "ar": "1970",
+              "en": "1970"
+            }
+          ],
+          "answer": 0,
+          "why": {
+            "ar": "التاريخ الوارد في المقدمة هو 1991.",
+            "en": "The introduction gives the year 1991."
+          }
+        }
+      ],
+      "exercise_count": 3
+    },
+    {
+      "id": "c01-l002",
+      "chapter": 1,
+      "page": 4,
+      "title": {
+        "ar": "استخدامات بايثون",
+        "en": "Python applications"
+      },
+      "explanation": {
+        "ar": "يعرض الكتاب تطوير الويب من جانب الخادم، والبرامج، والرياضيات والبرمجة النصية للنظام ضمن استخدامات بايثون.",
+        "en": "The book lists server-side web development, software, mathematics and system scripting as uses of Python."
+      },
+      "kind": "theory",
+      "questions": [
+        {
+          "prompt": {
+            "ar": "أين تعمل بايثون عادةً في تطبيق ويب؟",
+            "en": "Where does Python usually run in a web application?"
+          },
+          "options": [
+            {
+              "ar": "على الخادم",
+              "en": "On the server"
+            },
+            {
+              "ar": "داخل ملف CSS بوصفها لونًا",
+              "en": "Inside CSS as a color"
+            },
+            {
+              "ar": "في صورة ثابتة",
+              "en": "Inside a static image"
+            }
+          ],
+          "answer": 0,
+          "why": {
+            "ar": "تستقبل الشيفرة على الخادم الطلبات وتعالج البيانات.",
+            "en": "Server code receives requests and processes data."
+          }
+        },
+        {
+          "prompt": {
+            "ar": "هل تصلح بايثون لأتمتة المهام؟",
+            "en": "Can Python automate tasks?"
+          },
+          "options": [
+            {
+              "ar": "نعم، باستخدام برامج نصية",
+              "en": "Yes, using scripts"
+            },
+            {
+              "ar": "لا، للألعاب فقط",
+              "en": "No, only games"
+            },
+            {
+              "ar": "لا، للصور فقط",
+              "en": "No, only images"
+            }
+          ],
+          "answer": 0,
+          "why": {
+            "ar": "البرمجة النصية للنظام أحد الاستخدامات التي يذكرها الكتاب.",
+            "en": "System scripting is one use listed in the book."
+          }
+        },
+        {
+          "prompt": {
+            "ar": "أي مهمة من استخدامات بايثون؟",
+            "en": "Which is a Python use case?"
+          },
+          "options": [
+            {
+              "ar": "معالجة بيانات وإجراء حسابات",
+              "en": "Processing data and calculations"
+            },
+            {
+              "ar": "تغيير قطعة إلكترونية مادية بمجرد الكتابة",
+              "en": "Physically replacing hardware by typing"
+            },
+            {
+              "ar": "العمل دون أي مفسّر أو بيئة تنفيذ",
+              "en": "Running without any interpreter or runtime"
+            }
+          ],
+          "answer": 0,
+          "why": {
+            "ar": "البرنامج يعالج البيانات وينفّذ الحسابات ضمن بيئة تشغيل.",
+            "en": "Programs process data and calculate within a runtime."
+          }
+        }
+      ],
+      "exercise_count": 3
+    },
+    {
+      "id": "c02-l001",
+      "chapter": 2,
+      "page": 5,
+      "title": {
+        "ar": "الميزات والمقارنة واختيار اللغة",
+        "en": "Features, comparisons and choosing a language"
+      },
+      "explanation": {
+        "ar": "يناقش الفصل سهولة القراءة والمكتبات وإدارة الذاكرة، ثم يقارن بايثون مع C++ وJavaScript وJava وPHP وC#. اختيار اللغة يعتمد على المشروع. HTML لغة توصيف وليست لغة برمجة عامة. لا تعني سهولة بايثون أنها الأسرع في كل مهمة.",
+        "en": "This chapter discusses readability, libraries and memory management, then compares Python with C++, JavaScript, Java, PHP and C#. Choose a language for the task. HTML is a markup language, and readability does not imply the fastest execution."
+      },
+      "kind": "theory",
+      "questions": [
+        {
+          "prompt": {
+            "ar": "ما معيار الاختيار الأفضل؟",
+            "en": "What is the best selection criterion?"
+          },
+          "options": [
+            {
+              "ar": "متطلبات المشروع والمكتبات المناسبة",
+              "en": "Project requirements and suitable libraries"
+            },
+            {
+              "ar": "لغة واحدة أفضل دائمًا",
+              "en": "One language is always best"
+            },
+            {
+              "ar": "طول الاسم فقط",
+              "en": "Only the name length"
+            }
+          ],
+          "answer": 0,
+          "why": {
+            "ar": "تختلف الأداءات والبيئات والأدوات باختلاف المهمة؛ المقارنة ليست ترتيبًا مطلقًا.",
+            "en": "Performance, environments and tools depend on the task; there is no universal ranking."
+          }
+        },
+        {
+          "prompt": {
+            "ar": "ما التصنيف الصحيح لـ HTML؟",
+            "en": "How should HTML be classified?"
+          },
+          "options": [
+            {
+              "ar": "لغة توصيف لبنية الصفحة",
+              "en": "Markup for page structure"
+            },
+            {
+              "ar": "بديل كامل لبايثون في كل الحسابات",
+              "en": "A complete Python replacement"
+            },
+            {
+              "ar": "قاعدة بيانات",
+              "en": "A database"
+            }
+          ],
+          "answer": 0,
+          "why": {
+            "ar": "HTML يصف بنية المستند، وليس لغة برمجة عامة.",
+            "en": "HTML describes document structure; it is not a general-purpose programming language."
+          }
+        },
+        {
+          "prompt": {
+            "ar": "أي فئة يمكنها تعلّم بايثون؟",
+            "en": "Who can learn Python?"
+          },
+          "options": [
+            {
+              "ar": "المبتدئون والمطورون من مجالات مختلفة",
+              "en": "Beginners and developers across fields"
+            },
+            {
+              "ar": "خبراء العتاد فقط",
+              "en": "Hardware experts only"
+            },
+            {
+              "ar": "مطوّرو الألعاب فقط",
+              "en": "Game developers only"
+            }
+          ],
+          "answer": 0,
+          "why": {
+            "ar": "يعرض الفصل شرائح متعددة من المتعلّمين، ولا يقصرها على اختصاص واحد.",
+            "en": "The chapter describes several groups of learners, not just one profession."
+          }
+        }
+      ],
+      "exercise_count": 3
+    },
+    {
+      "id": "c03-l001",
+      "chapter": 3,
+      "page": 17,
+      "title": {
+        "ar": "التثبيت وسطر الأوامر",
+        "en": "Installation and the command line"
+      },
+      "explanation": {
+        "ar": "نحفظ الشيفرة في ملف بامتداد .py ثم نشغّله بالمفسّر. للتحقق من الإصدار نكتب python --version في الطرفية. في Windows قد نستخدم py بدل python. الأمر يكتب في الطرفية وليس داخل ملف بايثون.",
+        "en": "Save code in a .py file and run it with Python. Use python --version in the terminal to check the version; Windows may use py. Terminal commands do not belong inside a Python file."
+      },
+      "kind": "theory",
+      "questions": [
+        {
+          "prompt": {
+            "ar": "ما امتداد ملف بايثون؟",
+            "en": "What extension does a Python file use?"
+          },
+          "options": [
+            {
+              "ar": ".py",
+              "en": ".py"
+            },
+            {
+              "ar": ".css",
+              "en": ".css"
+            },
+            {
+              "ar": ".jpg",
+              "en": ".jpg"
+            }
+          ],
+          "answer": 0,
+          "why": {
+            "ar": "ملفات الشيفرة في أمثلة الكتاب تحمل الامتداد .py.",
+            "en": "The book saves Python source as .py files."
+          }
+        },
+        {
+          "prompt": {
+            "ar": "كيف تتحقق من الإصدار في الطرفية؟",
+            "en": "How do you check the version in a terminal?"
+          },
+          "options": [
+            {
+              "ar": "python --version",
+              "en": "python --version"
+            },
+            {
+              "ar": "print python version",
+              "en": "print python version"
+            },
+            {
+              "ar": "python color",
+              "en": "python color"
+            }
+          ],
+          "answer": 0,
+          "why": {
+            "ar": "يتطلب الخيار شرطتين قصيرتين قبل version.",
+            "en": "The option uses two ASCII hyphens before version."
+          }
+        },
+        {
+          "prompt": {
+            "ar": "كيف تشغّل ملف hello.py؟",
+            "en": "How do you run hello.py?"
+          },
+          "options": [
+            {
+              "ar": "python hello.py",
+              "en": "python hello.py"
+            },
+            {
+              "ar": "open.css hello.py",
+              "en": "open.css hello.py"
+            },
+            {
+              "ar": "print(\"hello.py\")",
+              "en": "print(\"hello.py\")"
+            }
+          ],
+          "answer": 0,
+          "why": {
+            "ar": "يُمرّر مسار الملف إلى المفسّر؛ طباعة اسمه لا تنفّذه.",
+            "en": "Pass the file path to the interpreter; printing its name does not execute it."
+          }
+        }
+      ],
+      "exercise_count": 3
+    },
+    {
+      "id": "c03-l002",
+      "chapter": 3,
+      "page": 18,
+      "title": {
+        "ar": "الطباعة وتنفيذ الشيفرة",
+        "en": "Printing and execution"
+      },
+      "explanation": {
+        "ar": "تستدعي print دالة الإخراج. النص يوضع بين علامتي تنصيص، وتنفّذ التعليمات بالترتيب.",
+        "en": "print displays values. Put text in quotes; statements run in order."
+      },
+      "code": "print(\"Hello, World!\")\nprint(\"Python\")",
+      "token": "print",
+      "kind": "code",
+      "output": "Hello, World!\nPython",
+      "blank": "____(\"Hello, World!\")\nprint(\"Python\")",
+      "variant": "print(\"Hello, World!\")\nprint(\"Python\")",
+      "variant_output": "Hello, World!\nPython",
+      "exercise_count": 4
+    },
+    {
+      "id": "c03-l003",
+      "chapter": 3,
+      "page": 20,
+      "title": {
+        "ar": "المسافة البادئة",
+        "en": "Indentation"
+      },
+      "explanation": {
+        "ar": "المسافة البادئة تحدّد كتلة التعليمات. نضع نقطتين بعد الشرط ثم نُزيح جسمه إلى الداخل.",
+        "en": "Indentation defines a block. End an if header with a colon and indent its body."
+      },
+      "code": "if 5 > 2:\n    print(\"Five is greater than two!\")",
+      "token": "if",
+      "kind": "code",
+      "output": "Five is greater than two!",
+      "blank": "____ 5 > 2:\n    print(\"Five is greater than two!\")",
+      "variant": "if 5 > 2:\n    print(\"Five is greater than two!\")",
+      "variant_output": "Five is greater than two!",
+      "exercise_count": 4
+    },
+    {
+      "id": "c04-l001",
+      "chapter": 4,
+      "page": 22,
+      "title": {
+        "ar": "التعليقات في سطر واحد",
+        "en": "Single-line comments"
+      },
+      "explanation": {
+        "ar": "يبدأ التعليق بالرمز # ويستمر إلى نهاية السطر. لا تنفّذه بايثون.",
+        "en": "A # starts a comment that continues to the end of the line; Python does not execute it."
+      },
+      "code": "# This is a comment\nprint(\"Hello\") # A trailing comment",
+      "token": "print",
+      "kind": "code",
+      "output": "Hello",
+      "blank": "# This is a comment\n____(\"Hello\") # A trailing comment",
+      "variant": "# This is a comment\nprint(\"Hello\") # A trailing comment",
+      "variant_output": "Hello",
+      "exercise_count": 4
+    },
+    {
+      "id": "c04-l002",
+      "chapter": 4,
+      "page": 23,
+      "title": {
+        "ar": "التعليقات متعددة الأسطر",
+        "en": "Multiple comment lines"
+      },
+      "explanation": {
+        "ar": "يمكن كتابة # في بداية كل سطر. التنصيص الثلاثي ينشئ سلسلة نصية، وليس صيغة تعليق مستقلة؛ وقد يُستخدم للتوثيق في مواضع محدّدة.",
+        "en": "Use # on each comment line. Triple quotes create a string, not a dedicated comment syntax; in specific positions it can be a docstring."
+      },
+      "code": "# First note\n# Second note\nprint(\"Ready\")",
+      "token": "print",
+      "kind": "code",
+      "output": "Ready",
+      "blank": "# First note\n# Second note\n____(\"Ready\")",
+      "variant": "# First note\n# Second note\nprint(\"Ready\")",
+      "variant_output": "Ready",
+      "exercise_count": 4
+    },
+    {
+      "id": "c05-l001",
+      "chapter": 5,
+      "page": 24,
+      "title": {
+        "ar": "إنشاء المتغير وتغيير قيمته",
+        "en": "Creating and reassigning variables"
+      },
+      "explanation": {
+        "ar": "الإسناد = يربط اسمًا بقيمة. لا نعلن نوع المتغير مسبقًا، ويمكن إسناد قيمة جديدة إليه.",
+        "en": "Assignment binds a name to a value. No type declaration is required, and the name can be reassigned."
+      },
+      "code": "x = 5\nx = 8\nprint(x)",
+      "token": "x",
+      "kind": "code",
+      "output": "8",
+      "blank": "____ = 5\nx = 8\nprint(x)",
+      "variant": "x = 5\nx = 9\nprint(x)",
+      "variant_output": "9",
+      "exercise_count": 4
+    },
+    {
+      "id": "c05-l002",
+      "chapter": 5,
+      "page": 25,
+      "title": {
+        "ar": "التحويل وفحص النوع",
+        "en": "Casting and inspecting types"
+      },
+      "explanation": {
+        "ar": "تستخدم str وint وfloat للتحويل عندما تكون القيمة قابلة للتحويل. تكشف type نوع الكائن.",
+        "en": "str, int and float convert compatible values; type reports the object type."
+      },
+      "code": "x = int(\"3\")\nprint(x + 2)\nprint(type(x).__name__)",
+      "token": "int",
+      "kind": "code",
+      "output": "5\nint",
+      "blank": "x = ____(\"3\")\nprint(x + 2)\nprint(type(x).__name__)",
+      "variant": "x = int('3')\nprint(x + 3)\nprint(type(x).__name__)",
+      "variant_output": "6\nint",
+      "exercise_count": 4
+    },
+    {
+      "id": "c05-l003",
+      "chapter": 5,
+      "page": 25,
+      "title": {
+        "ar": "التنصيص وحالة الأحرف",
+        "en": "Quotes and case sensitivity"
+      },
+      "explanation": {
+        "ar": "التنصيص المفرد والمزدوج كلاهما ينشئ نصًا. الأسماء حساسة لحالة الأحرف؛ a يختلف عن A.",
+        "en": "Single and double quotes both create strings. Names are case-sensitive: a and A are different."
+      },
+      "code": "a = \"John\"\nA = 'Sally'\nprint(a, A)",
+      "token": "A",
+      "kind": "code",
+      "output": "John Sally",
+      "blank": "a = \"John\"\n____ = 'Sally'\nprint(a, A)",
+      "variant": "a = \"John\"\nA = 'Sally'\nprint(a, A)",
+      "variant_output": "John Sally",
+      "exercise_count": 4
+    },
+    {
+      "id": "c05-l004",
+      "chapter": 5,
+      "page": 26,
+      "title": {
+        "ar": "الأسماء وأساليب كتابتها",
+        "en": "Names and naming styles"
+      },
+      "explanation": {
+        "ar": "لا يبدأ الاسم برقم ولا يكون كلمة محجوزة. يعرض الكتاب camelCase وPascalCase وsnake_case. نستخدم أسماء معبّرة.",
+        "en": "Names cannot start with a digit or be keywords. The book shows camelCase, PascalCase and snake_case. Choose meaningful names."
+      },
+      "code": "my_variable_name = \"John\"\nprint(my_variable_name)",
+      "token": "my_variable_name",
+      "kind": "code",
+      "output": "John",
+      "blank": "____ = \"John\"\nprint(my_variable_name)",
+      "variant": "my_variable_name = \"John\"\nprint(my_variable_name)",
+      "variant_output": "John",
+      "exercise_count": 4
+    },
+    {
+      "id": "c05-l005",
+      "chapter": 5,
+      "page": 27,
+      "title": {
+        "ar": "الإسناد المتعدد وفك القيم",
+        "en": "Multiple assignment and unpacking"
+      },
+      "explanation": {
+        "ar": "يمكن إسناد قيم متعددة لأسماء متعددة في سطر واحد، أو ربط عدة أسماء بقيمة واحدة. في فك القيم يجب أن يتوافق العدد ما لم نستخدم النجمة.",
+        "en": "Assign several values to several names, or one value to several names. Unpacking counts must agree unless a starred target is used."
+      },
+      "code": "x, y, z = [\"orange\", \"banana\", \"cherry\"]\nprint(y)\na = b = 4\nprint(a + b)",
+      "token": "y",
+      "kind": "code",
+      "output": "banana\n8",
+      "blank": "x, ____, z = [\"orange\", \"banana\", \"cherry\"]\nprint(y)\na = b = 4\nprint(a + b)",
+      "variant": "x, y, z = ['orange', 'banana', 'cherry']\nprint(y)\na = b = 5\nprint(a + b)",
+      "variant_output": "banana\n10",
+      "exercise_count": 4
+    },
+    {
+      "id": "c05-l006",
+      "chapter": 5,
+      "page": 28,
+      "title": {
+        "ar": "إخراج المتغيرات",
+        "en": "Displaying variables"
+      },
+      "explanation": {
+        "ar": "تفصل print بين الوسائط بمسافة افتراضيًا. جمع عدد ونص مباشرة بعامل + يسبب TypeError؛ يمكن طباعتهما كوسيطين.",
+        "en": "print separates arguments with spaces by default. Adding an integer and a string directly raises TypeError; print them as separate arguments."
+      },
+      "code": "x = 5\ny = \"John\"\nprint(x, y)",
+      "token": "x",
+      "kind": "code",
+      "output": "5 John",
+      "blank": "____ = 5\ny = \"John\"\nprint(x, y)",
+      "variant": "x = 6\ny = 'John'\nprint(x, y)",
+      "variant_output": "6 John",
+      "exercise_count": 4
+    },
+    {
+      "id": "c05-l007",
+      "chapter": 5,
+      "page": 29,
+      "title": {
+        "ar": "المتغير العام وglobal",
+        "en": "Global names and global"
+      },
+      "explanation": {
+        "ar": "المتغير خارج الدالة عام. نستخدم global داخل الدالة لإعادة إسناد الاسم العام؛ أما الإسناد العادي داخل الدالة فينشئ اسمًا محليًا.",
+        "en": "A name outside a function is global. Use global to reassign it from a function; ordinary assignment creates a local name."
+      },
+      "code": "x = \"awesome\"\ndef change():\n    global x\n    x = \"fantastic\"\nchange()\nprint(x)",
+      "token": "global",
+      "kind": "code",
+      "output": "fantastic",
+      "blank": "x = \"awesome\"\ndef change():\n    ____ x\n    x = \"fantastic\"\nchange()\nprint(x)",
+      "variant": "x = \"awesome\"\ndef change():\n    global x\n    x = \"fantastic\"\nchange()\nprint(x)",
+      "variant_output": "fantastic",
+      "exercise_count": 4
+    },
+    {
+      "id": "c06-l001",
+      "chapter": 6,
+      "page": 31,
+      "title": {
+        "ar": "النص والعدد والمنطق",
+        "en": "Text, numbers and booleans"
+      },
+      "explanation": {
+        "ar": "نوع القيمة يحدّد العمليات المناسبة لها. النص str، والعدد الصحيح int، والقيمة المنطقية bool.",
+        "en": "The value type determines valid operations: str for text, int for integers and bool for booleans."
+      },
+      "code": "print(type(\"Hello\").__name__)\nprint(type(5).__name__)\nprint(type(True).__name__)",
+      "token": "print",
+      "kind": "code",
+      "output": "str\nint\nbool",
+      "blank": "____(type(\"Hello\").__name__)\nprint(type(5).__name__)\nprint(type(True).__name__)",
+      "variant": "print(type(\"Hello\").__name__)\nprint(type(5).__name__)\nprint(type(True).__name__)",
+      "variant_output": "str\nint\nbool",
+      "exercise_count": 4
+    },
+    {
+      "id": "c06-l002",
+      "chapter": 6,
+      "page": 32,
+      "title": {
+        "ar": "أنواع المجموعات",
+        "en": "Collection types"
+      },
+      "explanation": {
+        "ar": "list وtuple تسلسلان؛ set مجموعة عناصر فريدة، وdict يربط المفاتيح بالقيم.",
+        "en": "list and tuple are sequences; set stores unique elements; dict maps keys to values."
+      },
+      "code": "print(type([1, 2]).__name__)\nprint(type((1, 2)).__name__)\nprint(type({1, 2}).__name__)\nprint(type({\"a\": 1}).__name__)",
+      "token": "print",
+      "kind": "code",
+      "output": "list\ntuple\nset\ndict",
+      "blank": "____(type([1, 2]).__name__)\nprint(type((1, 2)).__name__)\nprint(type({1, 2}).__name__)\nprint(type({\"a\": 1}).__name__)",
+      "variant": "print(type([1, 2]).__name__)\nprint(type((1, 2)).__name__)\nprint(type({1, 2}).__name__)\nprint(type({\"a\": 1}).__name__)",
+      "variant_output": "list\ntuple\nset\ndict",
+      "exercise_count": 4
+    },
+    {
+      "id": "c06-l003",
+      "chapter": 6,
+      "page": 34,
+      "title": {
+        "ar": "range وNone والأنواع الثنائية",
+        "en": "range, None and binary types"
+      },
+      "explanation": {
+        "ar": "range يصف مدى أعداد، وNone تعبّر عن غياب قيمة. bytes غير قابل للتعديل، بينما bytearray قابل للتعديل؛ memoryview يتيح الوصول إلى الذاكرة المخزّنة.",
+        "en": "range describes an integer range; None represents absence. bytes is immutable; bytearray is mutable; memoryview exposes buffer data."
+      },
+      "code": "print(list(range(3)))\nprint(type(None).__name__)\nprint(type(b\"Hello\").__name__)\nprint(type(bytearray(2)).__name__)",
+      "token": "print",
+      "kind": "code",
+      "output": "[0, 1, 2]\nNoneType\nbytes\nbytearray",
+      "blank": "____(list(range(3)))\nprint(type(None).__name__)\nprint(type(b\"Hello\").__name__)\nprint(type(bytearray(2)).__name__)",
+      "variant": "print(list(range(4)))\nprint(type(None).__name__)\nprint(type(b'Hello').__name__)\nprint(type(bytearray(2)).__name__)",
+      "variant_output": "[0, 1, 2, 3]\nNoneType\nbytes\nbytearray",
+      "exercise_count": 4
+    },
+    {
+      "id": "c06-l004",
+      "chapter": 6,
+      "page": 36,
+      "title": {
+        "ar": "إنشاء القيم بالبواني",
+        "en": "Constructing values"
+      },
+      "explanation": {
+        "ar": "البواني مثل list وtuple وset تنشئ قيمًا من النوع المطلوب. frozenset مجموعة غير قابلة للتعديل.",
+        "en": "Constructors such as list, tuple and set create values of those types. frozenset is immutable."
+      },
+      "code": "print(list((1, 2)))\nprint(tuple([1, 2]))\nprint(sorted(set([1, 1, 2])))\nprint(type(frozenset([1])).__name__)",
+      "token": "print",
+      "kind": "code",
+      "output": "[1, 2]\n(1, 2)\n[1, 2]\nfrozenset",
+      "blank": "____(list((1, 2)))\nprint(tuple([1, 2]))\nprint(sorted(set([1, 1, 2])))\nprint(type(frozenset([1])).__name__)",
+      "variant": "print(list((2, 2)))\nprint(tuple([1, 2]))\nprint(sorted(set([1, 1, 2])))\nprint(type(frozenset([1])).__name__)",
+      "variant_output": "[2, 2]\n(1, 2)\n[1, 2]\nfrozenset",
+      "exercise_count": 4
+    },
+    {
+      "id": "c07-l001",
+      "chapter": 7,
+      "page": 39,
+      "title": {
+        "ar": "الأعداد الصحيحة",
+        "en": "Integers"
+      },
+      "explanation": {
+        "ar": "int يمثّل الأعداد الصحيحة الموجبة والسالبة والصفر، دون جزء كسري.",
+        "en": "int represents positive and negative whole numbers and zero."
+      },
+      "code": "x = -7\nprint(x + 10)",
+      "token": "x",
+      "kind": "code",
+      "output": "3",
+      "blank": "____ = -7\nprint(x + 10)",
+      "variant": "x = -8\nprint(x + 10)",
+      "variant_output": "2",
+      "exercise_count": 4
+    },
+    {
+      "id": "c07-l002",
+      "chapter": 7,
+      "page": 40,
+      "title": {
+        "ar": "العشرية والمركبة",
+        "en": "Floats and complex numbers"
+      },
+      "explanation": {
+        "ar": "float يمثّل الأعداد ذات الفاصلة العائمة. نكتب الجزء التخيلي في complex باستخدام j. لا يمكن تحويل عدد مركّب مباشرةً إلى int.",
+        "en": "float represents floating-point values. Use j for the imaginary part of a complex number; complex cannot be cast directly to int."
+      },
+      "code": "x = 2.5\nz = 3 + 2j\nprint(x * 2)\nprint(z.real)",
+      "token": "z",
+      "kind": "code",
+      "output": "5.0\n3.0",
+      "blank": "x = 2.5\n____ = 3 + 2j\nprint(x * 2)\nprint(z.real)",
+      "variant": "x = 2.5\nz = 4 + 2j\nprint(x * 2)\nprint(z.real)",
+      "variant_output": "5.0\n4.0",
+      "exercise_count": 4
+    },
+    {
+      "id": "c07-l003",
+      "chapter": 7,
+      "page": 40,
+      "title": {
+        "ar": "التحويل بين الأنواع العددية",
+        "en": "Numeric conversions"
+      },
+      "explanation": {
+        "ar": "int يحذف الجزء الكسري باتجاه الصفر، وليس تقريبًا لأقرب عدد. float ينشئ عددًا عشريًا.",
+        "en": "int truncates toward zero rather than rounding to the nearest integer; float creates a floating-point number."
+      },
+      "code": "print(int(2.9))\nprint(float(3))\nprint(str(3) + \"0\")",
+      "token": "int",
+      "kind": "code",
+      "output": "2\n3.0\n30",
+      "blank": "pr____(int(2.9))\nprint(float(3))\nprint(str(3) + \"0\")",
+      "variant": "print(int(2.9))\nprint(float(4))\nprint(str(3) + '0')",
+      "variant_output": "2\n4.0\n30",
+      "exercise_count": 4
+    },
+    {
+      "id": "c07-l004",
+      "chapter": 7,
+      "page": 41,
+      "title": {
+        "ar": "الأعداد العشوائية",
+        "en": "Random numbers"
+      },
+      "explanation": {
+        "ar": "توفر الوحدة random أدوات لتوليد أعداد شبه عشوائية. الحد الأعلى في randrange غير مشمول.",
+        "en": "random provides pseudorandom generation. The upper limit of randrange is excluded."
+      },
+      "code": "import random\nx = random.randrange(1, 10)\nprint(1 <= x < 10)",
+      "token": "randrange",
+      "kind": "code",
+      "output": "True",
+      "blank": "import random\nx = random.____(1, 10)\nprint(1 <= x < 10)",
+      "variant": "import random\nx = random.randrange(1, 10)\nprint(1 <= x < 10)",
+      "variant_output": "True",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l001",
+      "chapter": 8,
+      "page": 42,
+      "title": {
+        "ar": "النصوص متعددة الأسطر",
+        "en": "Multiline strings"
+      },
+      "explanation": {
+        "ar": "نضع النص بين علامتي تنصيص. للتضمين المباشر لأسطر متعددة نستخدم تنصيصًا ثلاثيًا.",
+        "en": "Enclose strings in quotes; triple quotes allow literal multiline strings."
+      },
+      "code": "text = \"\"\"Hello\nWorld\"\"\"\nprint(text)",
+      "token": "text",
+      "kind": "code",
+      "output": "Hello\nWorld",
+      "blank": "____ = \"\"\"Hello\nWorld\"\"\"\nprint(text)",
+      "variant": "text = \"\"\"Hello\nWorld\"\"\"\nprint(text)",
+      "variant_output": "Hello\nWorld",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l002",
+      "chapter": 8,
+      "page": 43,
+      "title": {
+        "ar": "الفهرسة وطول النص",
+        "en": "String indexing and length"
+      },
+      "explanation": {
+        "ar": "النص تسلسل غير قابل للتعديل من نقاط Unicode، وليس مصفوفة bytes. أول فهرس هو 0 و-1 يشير إلى آخر عنصر.",
+        "en": "A string is an immutable sequence of Unicode code points, not a byte array. Indexing starts at 0; -1 selects the last item."
+      },
+      "code": "text = \"Hello\"\nprint(text[0])\nprint(text[-1])\nprint(len(text))",
+      "token": "len",
+      "kind": "code",
+      "output": "H\no\n5",
+      "blank": "text = \"Hello\"\nprint(text[0])\nprint(text[-1])\nprint(____(text))",
+      "variant": "text = 'Hello'\nprint(text[0])\nprint(text[-2])\nprint(len(text))",
+      "variant_output": "H\nl\n5",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l003",
+      "chapter": 8,
+      "page": 43,
+      "title": {
+        "ar": "التكرار والعضوية في النص",
+        "en": "Iteration and membership"
+      },
+      "explanation": {
+        "ar": "تمر for على أحرف النص، ويفحص in وجود سلسلة فرعية؛ not in يعكس نتيجة الفحص.",
+        "en": "for iterates over characters; in checks for a substring, and not in reverses that test."
+      },
+      "code": "for letter in \"Hi\":\n    print(letter)\nprint(\"free\" in \"Life is free\")",
+      "token": "in",
+      "kind": "code",
+      "output": "H\ni\nTrue",
+      "blank": "for letter ____ \"Hi\":\n    print(letter)\nprint(\"free\" in \"Life is free\")",
+      "variant": "for letter in \"Hi\":\n    print(letter)\nprint(\"free\" in \"Life is free\")",
+      "variant_output": "H\ni\nTrue",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l004",
+      "chapter": 8,
+      "page": 44,
+      "title": {
+        "ar": "تقطيع النص",
+        "en": "String slicing"
+      },
+      "explanation": {
+        "ar": "في s[start:end] يبدأ الجزء عند start ويتوقف قبل end. حذف البداية أو النهاية يستخدم حدّ النص المقابل.",
+        "en": "s[start:end] includes start and excludes end. Omit a bound to use the corresponding end of the string."
+      },
+      "code": "s = \"Hello, World!\"\nprint(s[2:5])\nprint(s[:5])\nprint(s[-6:-1])",
+      "token": "s",
+      "kind": "code",
+      "output": "llo\nHello\nWorld",
+      "blank": "____ = \"Hello, World!\"\nprint(s[2:5])\nprint(s[:5])\nprint(s[-6:-1])",
+      "variant": "s = 'Hello, World!'\nprint(s[3:5])\nprint(s[:5])\nprint(s[-6:-1])",
+      "variant_output": "lo\nHello\nWorld",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l005",
+      "chapter": 8,
+      "page": 45,
+      "title": {
+        "ar": "دمج النصوص",
+        "en": "Concatenating text"
+      },
+      "explanation": {
+        "ar": "يجمع + نصين. يجب إضافة المسافة صراحةً إذا أردناها بين الكلمتين.",
+        "en": "+ concatenates strings. Include a space explicitly when needed."
+      },
+      "code": "a = \"Hello\"\nb = \"World\"\nprint(a + \" \" + b)",
+      "token": "a",
+      "kind": "code",
+      "output": "Hello World",
+      "blank": "____ = \"Hello\"\nb = \"World\"\nprint(a + \" \" + b)",
+      "variant": "a = \"Hello\"\nb = \"World\"\nprint(a + \" \" + b)",
+      "variant_output": "Hello World",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l006",
+      "chapter": 8,
+      "page": 45,
+      "title": {
+        "ar": "الأحرف الكبيرة",
+        "en": "Uppercase"
+      },
+      "explanation": {
+        "ar": "يُرجع نصًا بأحرف كبيرة دون تغيير النص الأصلي.",
+        "en": "Returns uppercase text without modifying the original."
+      },
+      "code": "print(\"Hello\".upper())",
+      "token": "upper",
+      "kind": "code",
+      "output": "HELLO",
+      "blank": "print(\"Hello\".____())",
+      "variant": "print(\"Hello\".upper())",
+      "variant_output": "HELLO",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l007",
+      "chapter": 8,
+      "page": 45,
+      "title": {
+        "ar": "الأحرف الصغيرة",
+        "en": "Lowercase"
+      },
+      "explanation": {
+        "ar": "يُرجع نسخة بأحرف صغيرة.",
+        "en": "Returns a lowercase copy."
+      },
+      "code": "print(\"HELLO\".lower())",
+      "token": "lower",
+      "kind": "code",
+      "output": "hello",
+      "blank": "print(\"HELLO\".____())",
+      "variant": "print(\"HELLO\".lower())",
+      "variant_output": "hello",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l008",
+      "chapter": 8,
+      "page": 45,
+      "title": {
+        "ar": "إزالة الفراغات الطرفية",
+        "en": "Strip outer whitespace"
+      },
+      "explanation": {
+        "ar": "يحذف الفراغات من الطرفين، لا من وسط النص.",
+        "en": "Removes leading and trailing whitespace, not internal spaces."
+      },
+      "code": "print(\"  Hello  \".strip())",
+      "token": "strip",
+      "kind": "code",
+      "output": "Hello",
+      "blank": "print(\"  Hello  \".____())",
+      "variant": "print(\"  Hello  \".strip())",
+      "variant_output": "Hello",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l009",
+      "chapter": 8,
+      "page": 45,
+      "title": {
+        "ar": "استبدال النص",
+        "en": "Replace text"
+      },
+      "explanation": {
+        "ar": "يُرجع نسخة استُبدلت فيها المطابقات؛ النص الأصلي ثابت.",
+        "en": "Returns a copy with matching substrings replaced."
+      },
+      "code": "print(\"Hello\".replace(\"H\", \"J\"))",
+      "token": "replace",
+      "kind": "code",
+      "output": "Jello",
+      "blank": "print(\"Hello\".____(\"H\", \"J\"))",
+      "variant": "print(\"Hello\".replace(\"H\", \"J\"))",
+      "variant_output": "Jello",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l010",
+      "chapter": 8,
+      "page": 45,
+      "title": {
+        "ar": "تقسيم النص",
+        "en": "Split text"
+      },
+      "explanation": {
+        "ar": "يقسم النص عند الفاصل ويُرجع قائمة.",
+        "en": "Splits at a separator and returns a list."
+      },
+      "code": "print(\"apple,banana\".split(\",\"))",
+      "token": "split",
+      "kind": "code",
+      "output": "['apple', 'banana']",
+      "blank": "print(\"apple,banana\".____(\",\"))",
+      "variant": "print(\"apple,banana\".split(\",\"))",
+      "variant_output": "['apple', 'banana']",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l011",
+      "chapter": 8,
+      "page": 46,
+      "title": {
+        "ar": "تنسيق النص",
+        "en": "Formatting text"
+      },
+      "explanation": {
+        "ar": "تعوّض format الحقول المحاطة بأقواس معقوفة بالقيم الممرّرة إليها، ويمكن تحديد مواقع القيم.",
+        "en": "format substitutes brace-delimited fields with supplied values, optionally by position."
+      },
+      "code": "text = \"I am {} years old\"\nprint(text.format(36))",
+      "token": "format",
+      "kind": "code",
+      "output": "I am 36 years old",
+      "blank": "text = \"I am {} years old\"\nprint(text.____(36))",
+      "variant": "text = 'I am {} years old'\nprint(text.format(37))",
+      "variant_output": "I am 37 years old",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l012",
+      "chapter": 8,
+      "page": 46,
+      "title": {
+        "ar": "أحرف الهروب",
+        "en": "Escape sequences"
+      },
+      "explanation": {
+        "ar": "تسمح الشرطة المائلة العكسية بإدخال أحرف خاصة. \\n ينشئ سطرًا جديدًا، و\\t مسافة جدولة، ويمكن تهريب علامة التنصيص.",
+        "en": "Backslash introduces escapes: \\n is a new line, \\t a tab, and quotes can be escaped."
+      },
+      "code": "print(\"Hello\\nWorld\")",
+      "token": "print",
+      "kind": "code",
+      "output": "Hello\nWorld",
+      "blank": "____(\"Hello\\nWorld\")",
+      "variant": "print(\"Hello\\nWorld\")",
+      "variant_output": "Hello\nWorld",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l013",
+      "chapter": 8,
+      "page": 47,
+      "title": {
+        "ar": "تكبير أول حرف",
+        "en": "Capitalize"
+      },
+      "explanation": {
+        "ar": "يكبّر أول حرف ويحوّل بقية الأحرف إلى الصغيرة.",
+        "en": "Capitalizes the first character and lowercases the rest."
+      },
+      "code": "print(\"python is FUN\".capitalize())",
+      "token": "capitalize",
+      "kind": "code",
+      "output": "Python is fun",
+      "blank": "print(\"python is FUN\".____())",
+      "variant": "print(\"python is FUN\".capitalize())",
+      "variant_output": "Python is fun",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l014",
+      "chapter": 8,
+      "page": 47,
+      "title": {
+        "ar": "مقارنة بلا حالة أحرف",
+        "en": "Case folding"
+      },
+      "explanation": {
+        "ar": "يحوّل النص بصورة مناسبة للمقارنة دون حساسية لحالة الأحرف.",
+        "en": "Case-folds text for caseless matching."
+      },
+      "code": "print(\"Straße\".casefold())",
+      "token": "casefold",
+      "kind": "code",
+      "output": "strasse",
+      "blank": "print(\"Straße\".____())",
+      "variant": "print(\"Straße\".casefold())",
+      "variant_output": "strasse",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l015",
+      "chapter": 8,
+      "page": 48,
+      "title": {
+        "ar": "توسيط النص",
+        "en": "Center text"
+      },
+      "explanation": {
+        "ar": "يوسّط النص بعرض محدّد، ويمكن تعيين حرف الحشو.",
+        "en": "Centers text within a width using an optional fill character."
+      },
+      "code": "print(\"Hi\".center(6, \"-\"))",
+      "token": "center",
+      "kind": "code",
+      "output": "--Hi--",
+      "blank": "print(\"Hi\".____(6, \"-\"))",
+      "variant": "print('Hi'.center(7, '-'))",
+      "variant_output": "---Hi--",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l016",
+      "chapter": 8,
+      "page": 48,
+      "title": {
+        "ar": "عدّ المطابقات",
+        "en": "Count matches"
+      },
+      "explanation": {
+        "ar": "يعدّ التطابقات غير المتداخلة.",
+        "en": "Counts non-overlapping matches."
+      },
+      "code": "print(\"banana\".count(\"a\"))",
+      "token": "count",
+      "kind": "code",
+      "output": "3",
+      "blank": "print(\"banana\".____(\"a\"))",
+      "variant": "print(\"banana\".count(\"a\"))",
+      "variant_output": "3",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l017",
+      "chapter": 8,
+      "page": 48,
+      "title": {
+        "ar": "فحص النهاية",
+        "en": "Check suffix"
+      },
+      "explanation": {
+        "ar": "يختبر هل ينتهي النص بالقيمة المحددة.",
+        "en": "Checks whether text ends with a suffix."
+      },
+      "code": "print(\"hello.py\".endswith(\".py\"))",
+      "token": "endswith",
+      "kind": "code",
+      "output": "True",
+      "blank": "print(\"hello.py\".____(\".py\"))",
+      "variant": "print(\"hello.py\".endswith(\".py\"))",
+      "variant_output": "True",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l018",
+      "chapter": 8,
+      "page": 48,
+      "title": {
+        "ar": "توسيع الجدولة",
+        "en": "Expand tabs"
+      },
+      "explanation": {
+        "ar": "يستبدل الجدولة بمسافات للوصول إلى موضع الجدولة التالي.",
+        "en": "Expands tabs to spaces up to the next tab stop."
+      },
+      "code": "print(\"a\\tb\".expandtabs(4))",
+      "token": "expandtabs",
+      "kind": "code",
+      "output": "a   b",
+      "blank": "print(\"a\\tb\".____(4))",
+      "variant": "print('a\\tb'.expandtabs(5))",
+      "variant_output": "a    b",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l019",
+      "chapter": 8,
+      "page": 49,
+      "title": {
+        "ar": "البحث دون استثناء",
+        "en": "Find a substring"
+      },
+      "explanation": {
+        "ar": "يعيد فهرس أول مطابقة، أو -1 عند غيابها.",
+        "en": "Returns the first match index, or -1 if absent."
+      },
+      "code": "print(\"Hello\".find(\"e\"))\nprint(\"Hello\".find(\"z\"))",
+      "token": "find",
+      "kind": "code",
+      "output": "1\n-1",
+      "blank": "print(\"Hello\".____(\"e\"))\nprint(\"Hello\".find(\"z\"))",
+      "variant": "print(\"Hello\".find(\"e\"))\nprint(\"Hello\".find(\"z\"))",
+      "variant_output": "1\n-1",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l020",
+      "chapter": 8,
+      "page": 49,
+      "title": {
+        "ar": "تنسيق باستخدام قاموس",
+        "en": "Format from a mapping"
+      },
+      "explanation": {
+        "ar": "يأخذ قيم حقول التنسيق من قاموس.",
+        "en": "Substitutes formatting fields from a mapping."
+      },
+      "code": "print(\"Hello {name}\".format_map({\"name\": \"John\"}))",
+      "token": "format_map",
+      "kind": "code",
+      "output": "Hello John",
+      "blank": "print(\"Hello {name}\".____({\"name\": \"John\"}))",
+      "variant": "print(\"Hello {name}\".format_map({\"name\": \"John\"}))",
+      "variant_output": "Hello John",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l021",
+      "chapter": 8,
+      "page": 50,
+      "title": {
+        "ar": "فهرس المطابقة",
+        "en": "Substring index"
+      },
+      "explanation": {
+        "ar": "يعيد فهرس أول مطابقة، ويرفع ValueError إذا لم يجدها.",
+        "en": "Returns the first match index; raises ValueError if absent."
+      },
+      "code": "print(\"Hello\".index(\"l\"))",
+      "token": "index",
+      "kind": "code",
+      "output": "2",
+      "blank": "print(\"Hello\".____(\"l\"))",
+      "variant": "print(\"Hello\".index(\"l\"))",
+      "variant_output": "2",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l022",
+      "chapter": 8,
+      "page": 50,
+      "title": {
+        "ar": "حروف وأرقام",
+        "en": "Alphanumeric text"
+      },
+      "explanation": {
+        "ar": "يتحقق أن النص غير فارغ وكل عناصره حروف أو أرقام؛ المسافة لا تحقق الشرط.",
+        "en": "Requires nonempty text with only alphanumeric characters; spaces fail."
+      },
+      "code": "print(\"abc123\".isalnum())\nprint(\"abc 123\".isalnum())",
+      "token": "isalnum",
+      "kind": "code",
+      "output": "True\nFalse",
+      "blank": "print(\"abc123\".____())\nprint(\"abc 123\".isalnum())",
+      "variant": "print(\"abc123\".isalnum())\nprint(\"abc 123\".isalnum())",
+      "variant_output": "True\nFalse",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l023",
+      "chapter": 8,
+      "page": 50,
+      "title": {
+        "ar": "حروف فقط",
+        "en": "Alphabetic text"
+      },
+      "explanation": {
+        "ar": "يتحقق من وجود حروف فقط في نص غير فارغ.",
+        "en": "Checks for a nonempty string of alphabetic characters."
+      },
+      "code": "print(\"Python\".isalpha())\nprint(\"Python3\".isalpha())",
+      "token": "isalpha",
+      "kind": "code",
+      "output": "True\nFalse",
+      "blank": "print(\"Python\".____())\nprint(\"Python3\".isalpha())",
+      "variant": "print(\"Python\".isalpha())\nprint(\"Python3\".isalpha())",
+      "variant_output": "True\nFalse",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l024",
+      "chapter": 8,
+      "page": 50,
+      "title": {
+        "ar": "محارف ASCII",
+        "en": "ASCII characters"
+      },
+      "explanation": {
+        "ar": "يفحص اقتصار المحارف على ASCII؛ الحروف العربية ليست ASCII.",
+        "en": "Checks whether all characters are ASCII; Arabic letters are not ASCII."
+      },
+      "code": "print(\"abc\".isascii())\nprint(\"مرحبا\".isascii())",
+      "token": "isascii",
+      "kind": "code",
+      "output": "True\nFalse",
+      "blank": "print(\"abc\".____())\nprint(\"مرحبا\".isascii())",
+      "variant": "print(\"abc\".isascii())\nprint(\"مرحبا\".isascii())",
+      "variant_output": "True\nFalse",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l025",
+      "chapter": 8,
+      "page": 50,
+      "title": {
+        "ar": "أرقام عشرية نصية",
+        "en": "Decimal digits"
+      },
+      "explanation": {
+        "ar": "يفحص رموز الأرقام العشرية، لا تمثيل عدد ذي فاصلة.",
+        "en": "Checks decimal digit characters, not a decimal-point representation."
+      },
+      "code": "print(\"123\".isdecimal())\nprint(\"1.2\".isdecimal())",
+      "token": "isdecimal",
+      "kind": "code",
+      "output": "True\nFalse",
+      "blank": "print(\"123\".____())\nprint(\"1.2\".isdecimal())",
+      "variant": "print(\"123\".isdecimal())\nprint(\"1.2\".isdecimal())",
+      "variant_output": "True\nFalse",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l026",
+      "chapter": 8,
+      "page": 50,
+      "title": {
+        "ar": "فحص رموز الأرقام",
+        "en": "Digit characters"
+      },
+      "explanation": {
+        "ar": "العلامة السالبة ليست رمز رقم؛ بعض رموز الأرقام غير العشرية تحقق isdigit.",
+        "en": "A minus sign is not a digit; some non-decimal digit characters pass."
+      },
+      "code": "print(\"123\".isdigit())\nprint(\"-1\".isdigit())",
+      "token": "isdigit",
+      "kind": "code",
+      "output": "True\nFalse",
+      "blank": "print(\"123\".____())\nprint(\"-1\".isdigit())",
+      "variant": "print(\"123\".isdigit())\nprint(\"-1\".isdigit())",
+      "variant_output": "True\nFalse",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l027",
+      "chapter": 8,
+      "page": 50,
+      "title": {
+        "ar": "صلاحية شكل الاسم",
+        "en": "Identifier shape"
+      },
+      "explanation": {
+        "ar": "يفحص شكل المعرّف؛ لا يفحص كونه كلمة محجوزة.",
+        "en": "Checks identifier syntax, but not whether it is a keyword."
+      },
+      "code": "print(\"my_name\".isidentifier())\nprint(\"2name\".isidentifier())",
+      "token": "isidentifier",
+      "kind": "code",
+      "output": "True\nFalse",
+      "blank": "print(\"my_name\".____())\nprint(\"2name\".isidentifier())",
+      "variant": "print(\"my_name\".isidentifier())\nprint(\"2name\".isidentifier())",
+      "variant_output": "True\nFalse",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l028",
+      "chapter": 8,
+      "page": 51,
+      "title": {
+        "ar": "فحص الأحرف الصغيرة",
+        "en": "Check lowercase"
+      },
+      "explanation": {
+        "ar": "يجب وجود حرف ذي حالة، وأن تكون كل الأحرف ذات الحالة صغيرة.",
+        "en": "Requires at least one cased character and all cased characters lowercase."
+      },
+      "code": "print(\"hello 123\".islower())",
+      "token": "islower",
+      "kind": "code",
+      "output": "True",
+      "blank": "print(\"hello 123\".____())",
+      "variant": "print(\"hello 123\".islower())",
+      "variant_output": "True",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l029",
+      "chapter": 8,
+      "page": 51,
+      "title": {
+        "ar": "المحارف العددية",
+        "en": "Numeric characters"
+      },
+      "explanation": {
+        "ar": "يفحص المحارف العددية؛ الفاصلة ليست محرفًا عدديًا.",
+        "en": "Tests numeric characters; a decimal point is not numeric."
+      },
+      "code": "print(\"123\".isnumeric())\nprint(\"1.5\".isnumeric())",
+      "token": "isnumeric",
+      "kind": "code",
+      "output": "True\nFalse",
+      "blank": "print(\"123\".____())\nprint(\"1.5\".isnumeric())",
+      "variant": "print(\"123\".isnumeric())\nprint(\"1.5\".isnumeric())",
+      "variant_output": "True\nFalse",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l030",
+      "chapter": 8,
+      "page": 51,
+      "title": {
+        "ar": "قابلية الطباعة",
+        "en": "Printable text"
+      },
+      "explanation": {
+        "ar": "محرف السطر الجديد لا يُعدّ قابلًا للطباعة في هذا الفحص.",
+        "en": "A newline is not printable for this test."
+      },
+      "code": "print(\"Hello\".isprintable())\nprint(\"Hi\\n\".isprintable())",
+      "token": "isprintable",
+      "kind": "code",
+      "output": "True\nFalse",
+      "blank": "print(\"Hello\".____())\nprint(\"Hi\\n\".isprintable())",
+      "variant": "print(\"Hello\".isprintable())\nprint(\"Hi\\n\".isprintable())",
+      "variant_output": "True\nFalse",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l031",
+      "chapter": 8,
+      "page": 51,
+      "title": {
+        "ar": "الفراغات فقط",
+        "en": "Whitespace only"
+      },
+      "explanation": {
+        "ar": "يجب أن يكون النص غير فارغ ومكوّنًا من محارف فراغ فقط.",
+        "en": "Requires nonempty text containing only whitespace."
+      },
+      "code": "print(\"  \".isspace())\nprint(\"\".isspace())",
+      "token": "isspace",
+      "kind": "code",
+      "output": "True\nFalse",
+      "blank": "print(\"  \".____())\nprint(\"\".isspace())",
+      "variant": "print(\"  \".isspace())\nprint(\"\".isspace())",
+      "variant_output": "True\nFalse",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l032",
+      "chapter": 8,
+      "page": 51,
+      "title": {
+        "ar": "حالة العنوان",
+        "en": "Title case"
+      },
+      "explanation": {
+        "ar": "يفحص أن الكلمات تتبع حالة العنوان المناسبة.",
+        "en": "Checks whether cased words follow title case."
+      },
+      "code": "print(\"Hello World\".istitle())",
+      "token": "istitle",
+      "kind": "code",
+      "output": "True",
+      "blank": "print(\"Hello World\".____())",
+      "variant": "print(\"Hello World\".istitle())",
+      "variant_output": "True",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l033",
+      "chapter": 8,
+      "page": 51,
+      "title": {
+        "ar": "فحص الأحرف الكبيرة",
+        "en": "Check uppercase"
+      },
+      "explanation": {
+        "ar": "يتحقق من أن الأحرف ذات الحالة كبيرة، مع وجود حرف ذي حالة واحد على الأقل.",
+        "en": "Requires all cased characters uppercase and at least one cased character."
+      },
+      "code": "print(\"HELLO 123\".isupper())",
+      "token": "isupper",
+      "kind": "code",
+      "output": "True",
+      "blank": "print(\"HELLO 123\".____())",
+      "variant": "print(\"HELLO 123\".isupper())",
+      "variant_output": "True",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l034",
+      "chapter": 8,
+      "page": 51,
+      "title": {
+        "ar": "وصل العناصر",
+        "en": "Join strings"
+      },
+      "explanation": {
+        "ar": "النص قبل join هو الفاصل، وجميع العناصر يجب أن تكون نصوصًا.",
+        "en": "The string before join is the separator; every item must be a string."
+      },
+      "code": "print(\"#\".join((\"John\", \"Peter\", \"Vicky\")))",
+      "token": "join",
+      "kind": "code",
+      "output": "John#Peter#Vicky",
+      "blank": "print(\"#\".____((\"John\", \"Peter\", \"Vicky\")))",
+      "variant": "print(\"#\".join((\"John\", \"Peter\", \"Vicky\")))",
+      "variant_output": "John#Peter#Vicky",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l035",
+      "chapter": 8,
+      "page": 52,
+      "title": {
+        "ar": "محاذاة إلى اليسار",
+        "en": "Left justify"
+      },
+      "explanation": {
+        "ar": "يملأ الطرف الأيمن حتى العرض المطلوب.",
+        "en": "Pads the right side to the requested width."
+      },
+      "code": "print(\"Hi\".ljust(5, \".\"))",
+      "token": "ljust",
+      "kind": "code",
+      "output": "Hi...",
+      "blank": "print(\"Hi\".____(5, \".\"))",
+      "variant": "print('Hi'.ljust(6, '.'))",
+      "variant_output": "Hi....",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l036",
+      "chapter": 8,
+      "page": 52,
+      "title": {
+        "ar": "تنظيف بداية النص",
+        "en": "Strip the left side"
+      },
+      "explanation": {
+        "ar": "يحذف الفراغات من بداية النص فقط.",
+        "en": "Removes whitespace only from the start."
+      },
+      "code": "print(\"  Hello  \".lstrip())",
+      "token": "lstrip",
+      "kind": "code",
+      "output": "Hello  ",
+      "blank": "print(\"  Hello  \".____())",
+      "variant": "print(\"  Hello  \".lstrip())",
+      "variant_output": "Hello  ",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l037",
+      "chapter": 8,
+      "page": 52,
+      "title": {
+        "ar": "جدول ترجمة المحارف",
+        "en": "Character translation table"
+      },
+      "explanation": {
+        "ar": "ينشئ maketrans جدول استبدال تستخدمه translate.",
+        "en": "maketrans creates a character mapping consumed by translate."
+      },
+      "code": "table = str.maketrans(\"a\", \"o\")\nprint(\"cat\".translate(table))",
+      "token": "maketrans",
+      "kind": "code",
+      "output": "cot",
+      "blank": "table = str.____(\"a\", \"o\")\nprint(\"cat\".translate(table))",
+      "variant": "table = str.maketrans(\"a\", \"o\")\nprint(\"cat\".translate(table))",
+      "variant_output": "cot",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l038",
+      "chapter": 8,
+      "page": 52,
+      "title": {
+        "ar": "تقسيم إلى ثلاثة أجزاء",
+        "en": "Partition into three parts"
+      },
+      "explanation": {
+        "ar": "يقسم عند أول ظهور للفاصل ويعيد ما قبله والفاصل وما بعده في tuple.",
+        "en": "Splits at the first separator into before, separator and after."
+      },
+      "code": "print(\"a-b-c\".partition(\"-\"))",
+      "token": "partition",
+      "kind": "code",
+      "output": "('a', '-', 'b-c')",
+      "blank": "print(\"a-b-c\".____(\"-\"))",
+      "variant": "print(\"a-b-c\".partition(\"-\"))",
+      "variant_output": "('a', '-', 'b-c')",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l039",
+      "chapter": 8,
+      "page": 54,
+      "title": {
+        "ar": "آخر موضع دون استثناء",
+        "en": "Find the last match"
+      },
+      "explanation": {
+        "ar": "يعيد فهرس آخر تطابق، أو -1 إذا غاب.",
+        "en": "Returns the last matching index, or -1 if absent."
+      },
+      "code": "print(\"banana\".rfind(\"a\"))",
+      "token": "rfind",
+      "kind": "code",
+      "output": "5",
+      "blank": "print(\"banana\".____(\"a\"))",
+      "variant": "print(\"banana\".rfind(\"a\"))",
+      "variant_output": "5",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l040",
+      "chapter": 8,
+      "page": 54,
+      "title": {
+        "ar": "فهرس آخر مطابقة",
+        "en": "Index of the last match"
+      },
+      "explanation": {
+        "ar": "يعيد فهرس آخر تطابق، ويرفع ValueError إذا غاب.",
+        "en": "Returns the last matching index, or raises ValueError."
+      },
+      "code": "print(\"banana\".rindex(\"a\"))",
+      "token": "rindex",
+      "kind": "code",
+      "output": "5",
+      "blank": "print(\"banana\".____(\"a\"))",
+      "variant": "print(\"banana\".rindex(\"a\"))",
+      "variant_output": "5",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l041",
+      "chapter": 8,
+      "page": 54,
+      "title": {
+        "ar": "محاذاة إلى اليمين",
+        "en": "Right justify"
+      },
+      "explanation": {
+        "ar": "يملأ الطرف الأيسر حتى العرض المطلوب.",
+        "en": "Pads the left side to the requested width."
+      },
+      "code": "print(\"Hi\".rjust(5, \".\"))",
+      "token": "rjust",
+      "kind": "code",
+      "output": "...Hi",
+      "blank": "print(\"Hi\".____(5, \".\"))",
+      "variant": "print('Hi'.rjust(6, '.'))",
+      "variant_output": "....Hi",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l042",
+      "chapter": 8,
+      "page": 54,
+      "title": {
+        "ar": "تقسيم عند آخر فاصل",
+        "en": "Partition at the last separator"
+      },
+      "explanation": {
+        "ar": "يستخدم آخر فاصل ويعيد ثلاثة أجزاء.",
+        "en": "Uses the last separator and returns three parts."
+      },
+      "code": "print(\"a-b-c\".rpartition(\"-\"))",
+      "token": "rpartition",
+      "kind": "code",
+      "output": "('a-b', '-', 'c')",
+      "blank": "print(\"a-b-c\".____(\"-\"))",
+      "variant": "print(\"a-b-c\".rpartition(\"-\"))",
+      "variant_output": "('a-b', '-', 'c')",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l043",
+      "chapter": 8,
+      "page": 55,
+      "title": {
+        "ar": "تقسيم من اليمين",
+        "en": "Split from the right"
+      },
+      "explanation": {
+        "ar": "عند تحديد عدد التقسيمات يبدأ من اليمين.",
+        "en": "With maxsplit, splitting starts from the right."
+      },
+      "code": "print(\"a-b-c\".rsplit(\"-\", 1))",
+      "token": "rsplit",
+      "kind": "code",
+      "output": "['a-b', 'c']",
+      "blank": "print(\"a-b-c\".____(\"-\", 1))",
+      "variant": "print('a-b-c'.rsplit('-', 2))",
+      "variant_output": "['a', 'b', 'c']",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l044",
+      "chapter": 8,
+      "page": 55,
+      "title": {
+        "ar": "تنظيف نهاية النص",
+        "en": "Strip the right side"
+      },
+      "explanation": {
+        "ar": "يحذف الفراغات من نهاية النص فقط.",
+        "en": "Removes whitespace only from the end."
+      },
+      "code": "print(\"  Hello  \".rstrip())",
+      "token": "rstrip",
+      "kind": "code",
+      "output": "  Hello",
+      "blank": "print(\"  Hello  \".____())",
+      "variant": "print(\"  Hello  \".rstrip())",
+      "variant_output": "  Hello",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l045",
+      "chapter": 8,
+      "page": 56,
+      "title": {
+        "ar": "تقسيم الأسطر",
+        "en": "Split lines"
+      },
+      "explanation": {
+        "ar": "يفصل النص عند حدود الأسطر ويعيد قائمة.",
+        "en": "Splits on line boundaries and returns a list."
+      },
+      "code": "print(\"a\\nb\".splitlines())",
+      "token": "splitlines",
+      "kind": "code",
+      "output": "['a', 'b']",
+      "blank": "print(\"a\\nb\".____())",
+      "variant": "print(\"a\\nb\".splitlines())",
+      "variant_output": "['a', 'b']",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l046",
+      "chapter": 8,
+      "page": 57,
+      "title": {
+        "ar": "فحص البداية",
+        "en": "Check prefix"
+      },
+      "explanation": {
+        "ar": "يختبر بداية النص بالقيمة المحدّدة.",
+        "en": "Checks whether text starts with the specified prefix."
+      },
+      "code": "print(\"Hello\".startswith(\"He\"))",
+      "token": "startswith",
+      "kind": "code",
+      "output": "True",
+      "blank": "print(\"Hello\".____(\"He\"))",
+      "variant": "print(\"Hello\".startswith(\"He\"))",
+      "variant_output": "True",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l047",
+      "chapter": 8,
+      "page": 57,
+      "title": {
+        "ar": "عكس حالة الأحرف",
+        "en": "Swap character case"
+      },
+      "explanation": {
+        "ar": "يبدّل الأحرف الصغيرة والكبيرة.",
+        "en": "Swaps uppercase and lowercase characters."
+      },
+      "code": "print(\"Hello\".swapcase())",
+      "token": "swapcase",
+      "kind": "code",
+      "output": "hELLO",
+      "blank": "print(\"Hello\".____())",
+      "variant": "print(\"Hello\".swapcase())",
+      "variant_output": "hELLO",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l048",
+      "chapter": 8,
+      "page": 58,
+      "title": {
+        "ar": "تحويل إلى حالة العنوان",
+        "en": "Convert to title case"
+      },
+      "explanation": {
+        "ar": "يعيد نسخة تتبع حالة العنوان.",
+        "en": "Returns a title-cased copy."
+      },
+      "code": "print(\"hello world\".title())",
+      "token": "title",
+      "kind": "code",
+      "output": "Hello World",
+      "blank": "print(\"hello world\".____())",
+      "variant": "print(\"hello world\".title())",
+      "variant_output": "Hello World",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l049",
+      "chapter": 8,
+      "page": 58,
+      "title": {
+        "ar": "ترجمة المحارف",
+        "en": "Translate characters"
+      },
+      "explanation": {
+        "ar": "يطبّق جدول استبدال المحارف ويعيد نصًا جديدًا.",
+        "en": "Applies a character mapping and returns a new string."
+      },
+      "code": "print(\"cat\".translate(str.maketrans(\"a\", \"o\")))",
+      "token": "translate",
+      "kind": "code",
+      "output": "cot",
+      "blank": "print(\"cat\".____(str.maketrans(\"a\", \"o\")))",
+      "variant": "print(\"cat\".translate(str.maketrans(\"a\", \"o\")))",
+      "variant_output": "cot",
+      "exercise_count": 4
+    },
+    {
+      "id": "c08-l050",
+      "chapter": 8,
+      "page": 58,
+      "title": {
+        "ar": "إكمال بالأصفار",
+        "en": "Zero padding"
+      },
+      "explanation": {
+        "ar": "يضيف أصفارًا في البداية حتى العرض المحدّد.",
+        "en": "Pads with leading zeros to the specified width."
+      },
+      "code": "print(\"42\".zfill(5))",
+      "token": "zfill",
+      "kind": "code",
+      "output": "00042",
+      "blank": "print(\"42\".____(5))",
+      "variant": "print('42'.zfill(6))",
+      "variant_output": "000042",
+      "exercise_count": 4
+    },
+    {
+      "id": "c09-l001",
+      "chapter": 9,
+      "page": 59,
+      "title": {
+        "ar": "المقارنات والقيم المنطقية",
+        "en": "Comparisons and boolean values"
+      },
+      "explanation": {
+        "ar": "نتيجة المقارنة عادة True أو False. الحرف الأول كبير في هاتين القيمتين.",
+        "en": "Comparisons normally produce True or False; their initial letter is uppercase."
+      },
+      "code": "print(10 > 9)\nprint(10 == 9)\nprint(10 < 9)",
+      "token": "print",
+      "kind": "code",
+      "output": "True\nFalse\nFalse",
+      "blank": "____(10 > 9)\nprint(10 == 9)\nprint(10 < 9)",
+      "variant": "print(10 > 10)\nprint(10 == 9)\nprint(10 < 9)",
+      "variant_output": "False\nFalse\nFalse",
+      "exercise_count": 4
+    },
+    {
+      "id": "c09-l002",
+      "chapter": 9,
+      "page": 60,
+      "title": {
+        "ar": "تحويل القيم إلى bool",
+        "en": "Truth-value testing"
+      },
+      "explanation": {
+        "ar": "الصفر والقيم الفارغة وNone تُقيَّم كخطأ. النص غير الفارغ \"False\" يقيَّم كصحيح لأنه نص.",
+        "en": "Zero, empty values and None are false; the nonempty string \"False\" is true."
+      },
+      "code": "print(bool(\"Hello\"))\nprint(bool(0))\nprint(bool([]))",
+      "token": "bool",
+      "kind": "code",
+      "output": "True\nFalse\nFalse",
+      "blank": "print(____(\"Hello\"))\nprint(bool(0))\nprint(bool([]))",
+      "variant": "print(bool(\"Hello\"))\nprint(bool(0))\nprint(bool([]))",
+      "variant_output": "True\nFalse\nFalse",
+      "exercise_count": 4
+    },
+    {
+      "id": "c09-l003",
+      "chapter": 9,
+      "page": 61,
+      "title": {
+        "ar": "إرجاع قيمة منطقية وفحص النوع",
+        "en": "Returning booleans and type checks"
+      },
+      "explanation": {
+        "ar": "يمكن للدالة إرجاع قيمة منطقية، ويستخدم isinstance لفحص علاقة الكائن بنوع محدّد.",
+        "en": "Functions can return booleans; isinstance checks whether an object is an instance of a type."
+      },
+      "code": "def ready():\n    return True\nprint(ready())\nprint(isinstance(5, int))",
+      "token": "isinstance",
+      "kind": "code",
+      "output": "True\nTrue",
+      "blank": "def ready():\n    return True\nprint(ready())\nprint(____(5, int))",
+      "variant": "def ready():\n    return True\nprint(ready())\nprint(isinstance(5, int))",
+      "variant_output": "True\nTrue",
+      "exercise_count": 4
+    },
+    {
+      "id": "c10-l001",
+      "chapter": 10,
+      "page": 63,
+      "title": {
+        "ar": "الحساب",
+        "en": "Arithmetic"
+      },
+      "explanation": {
+        "ar": "// قسمة أرضية، و% باقي القسمة، و** للأس. / يعيد قسمة عادية.",
+        "en": "// is floor division, % is remainder, ** is power and / is ordinary division."
+      },
+      "code": "print(7 // 2)\nprint(7 % 2)\nprint(2 ** 3)",
+      "token": "print",
+      "kind": "code",
+      "output": "3\n1\n8",
+      "blank": "____(7 // 2)\nprint(7 % 2)\nprint(2 ** 3)",
+      "variant": "print(8 // 2)\nprint(7 % 2)\nprint(2 ** 3)",
+      "variant_output": "4\n1\n8",
+      "exercise_count": 4
+    },
+    {
+      "id": "c10-l002",
+      "chapter": 10,
+      "page": 63,
+      "title": {
+        "ar": "الإسناد المركّب",
+        "en": "Augmented assignment"
+      },
+      "explanation": {
+        "ar": "x += 3 يزيد قيمة x بمقدار 3؛ = إسناد وليس مقارنة.",
+        "en": "x += 3 increments x by 3; = assigns rather than compares."
+      },
+      "code": "x = 5\nx += 3\nprint(x)",
+      "token": "print",
+      "kind": "code",
+      "output": "8",
+      "blank": "x = 5\nx += 3\n____(x)",
+      "variant": "x = 6\nx += 3\nprint(x)",
+      "variant_output": "9",
+      "exercise_count": 4
+    },
+    {
+      "id": "c10-l003",
+      "chapter": 10,
+      "page": 64,
+      "title": {
+        "ar": "المقارنة والمنطق",
+        "en": "Comparison and logic"
+      },
+      "explanation": {
+        "ar": "== يقارن القيم، وand يتطلب تحقق الطرفين، وor يكفيه طرف صحيح، وnot ينفي.",
+        "en": "== compares values; and needs both truthy, or needs either, and not negates."
+      },
+      "code": "print(5 == 5)\nprint(3 < 5 and 5 < 8)\nprint(not True)",
+      "token": "print",
+      "kind": "code",
+      "output": "True\nTrue\nFalse",
+      "blank": "____(5 == 5)\nprint(3 < 5 and 5 < 8)\nprint(not True)",
+      "variant": "print(6 == 5)\nprint(3 < 5 and 5 < 8)\nprint(not True)",
+      "variant_output": "False\nTrue\nFalse",
+      "exercise_count": 4
+    },
+    {
+      "id": "c10-l004",
+      "chapter": 10,
+      "page": 65,
+      "title": {
+        "ar": "الهوية والعضوية",
+        "en": "Identity and membership"
+      },
+      "explanation": {
+        "ar": "== يقارن القيم، بينما is يقارن هوية الكائن. in يفحص العضوية.",
+        "en": "== compares values, is compares identity, and in tests membership."
+      },
+      "code": "x = [1, 2]\ny = [1, 2]\nprint(x == y)\nprint(x is y)\nprint(2 in x)",
+      "token": "print",
+      "kind": "code",
+      "output": "True\nFalse\nTrue",
+      "blank": "x = [1, 2]\ny = [1, 2]\n____(x == y)\nprint(x is y)\nprint(2 in x)",
+      "variant": "x = [2, 2]\ny = [1, 2]\nprint(x == y)\nprint(x is y)\nprint(2 in x)",
+      "variant_output": "False\nFalse\nTrue",
+      "exercise_count": 4
+    },
+    {
+      "id": "c10-l005",
+      "chapter": 10,
+      "page": 66,
+      "title": {
+        "ar": "المعاملات الثنائية",
+        "en": "Bitwise operators"
+      },
+      "explanation": {
+        "ar": "تعمل & و| و^ و~ والإزاحات على التمثيل الثنائي للأعداد الصحيحة.",
+        "en": "&, |, ^, ~ and shifts operate on integer bits."
+      },
+      "code": "print(6 & 3)\nprint(6 | 3)\nprint(6 ^ 3)\nprint(1 << 2)\nprint(8 >> 1)\nprint(~1)",
+      "token": "print",
+      "kind": "code",
+      "output": "2\n7\n5\n4\n4\n-2",
+      "blank": "____(6 & 3)\nprint(6 | 3)\nprint(6 ^ 3)\nprint(1 << 2)\nprint(8 >> 1)\nprint(~1)",
+      "variant": "print(7 & 3)\nprint(6 | 3)\nprint(6 ^ 3)\nprint(1 << 2)\nprint(8 >> 1)\nprint(~1)",
+      "variant_output": "3\n7\n5\n4\n4\n-2",
+      "exercise_count": 4
+    },
+    {
+      "id": "c10-l006",
+      "chapter": 10,
+      "page": 67,
+      "title": {
+        "ar": "الأسبقية",
+        "en": "Precedence"
+      },
+      "explanation": {
+        "ar": "الأقواس تغيّر ترتيب التقييم. الضرب يسبق الجمع دون أقواس.",
+        "en": "Parentheses alter evaluation order; multiplication precedes addition."
+      },
+      "code": "print(2 + 3 * 4)\nprint((2 + 3) * 4)",
+      "token": "print",
+      "kind": "code",
+      "output": "14\n20",
+      "blank": "____(2 + 3 * 4)\nprint((2 + 3) * 4)",
+      "variant": "print(3 + 3 * 4)\nprint((2 + 3) * 4)",
+      "variant_output": "15\n20",
+      "exercise_count": 4
+    },
+    {
+      "id": "c11-l001",
+      "chapter": 11,
+      "page": 68,
+      "title": {
+        "ar": "إنشاء القائمة وخصائصها",
+        "en": "List creation and properties"
+      },
+      "explanation": {
+        "ar": "القائمة مرتّبة وقابلة للتعديل، وتسمح بالقيم المكررة وبأنواع مختلفة. نكتبها بين أقواس مربعة.",
+        "en": "Lists are ordered, mutable, allow duplicates and can contain mixed types. Use square brackets."
+      },
+      "code": "items = [\"apple\", \"apple\", 3]\nprint(len(items))\nprint(type(items).__name__)",
+      "token": "items",
+      "kind": "code",
+      "output": "3\nlist",
+      "blank": "____ = [\"apple\", \"apple\", 3]\nprint(len(items))\nprint(type(items).__name__)",
+      "variant": "items = [\"apple\", \"apple\", 3]\nprint(len(items))\nprint(type(items).__name__)",
+      "variant_output": "3\nlist",
+      "exercise_count": 4
+    },
+    {
+      "id": "c11-l002",
+      "chapter": 11,
+      "page": 70,
+      "title": {
+        "ar": "الوصول والتقطيع والعضوية",
+        "en": "List access, slicing and membership"
+      },
+      "explanation": {
+        "ar": "الفهرسة تبدأ من 0، والسالب يبدأ من النهاية. نهاية نطاق التقطيع غير مشمولة.",
+        "en": "Indices start at 0; negative indices count from the end. Slice end points are excluded."
+      },
+      "code": "items = [\"apple\", \"banana\", \"cherry\"]\nprint(items[-1])\nprint(items[:2])\nprint(\"apple\" in items)",
+      "token": "items",
+      "kind": "code",
+      "output": "cherry\n['apple', 'banana']\nTrue",
+      "blank": "____ = [\"apple\", \"banana\", \"cherry\"]\nprint(items[-1])\nprint(items[:2])\nprint(\"apple\" in items)",
+      "variant": "items = ['apple', 'banana', 'cherry']\nprint(items[-2])\nprint(items[:2])\nprint('apple' in items)",
+      "variant_output": "banana\n['apple', 'banana']\nTrue",
+      "exercise_count": 4
+    },
+    {
+      "id": "c11-l003",
+      "chapter": 11,
+      "page": 72,
+      "title": {
+        "ar": "تغيير عنصر أو نطاق",
+        "en": "Replacing items and slices"
+      },
+      "explanation": {
+        "ar": "يمكن تغيير عنصر بفهرسه، أو استبدال جزء باستخدام التقطيع. قد يتغير طول القائمة عند استبدال نطاق.",
+        "en": "Assign by index or replace a slice; slice replacement may change list length."
+      },
+      "code": "items = [1, 2, 3]\nitems[1] = 9\nitems[0:1] = [5, 6]\nprint(items)",
+      "token": "items",
+      "kind": "code",
+      "output": "[5, 6, 9, 3]",
+      "blank": "____ = [1, 2, 3]\nitems[1] = 9\nitems[0:1] = [5, 6]\nprint(items)",
+      "variant": "items = [1, 2, 3]\nitems[1] = 10\nitems[0:1] = [5, 6]\nprint(items)",
+      "variant_output": "[5, 6, 10, 3]",
+      "exercise_count": 4
+    },
+    {
+      "id": "c11-l004",
+      "chapter": 11,
+      "page": 73,
+      "title": {
+        "ar": "الإدراج",
+        "en": "Insert"
+      },
+      "explanation": {
+        "ar": "يدرج قيمة عند الفهرس المحدّد دون استبدال العنصر الموجود.",
+        "en": "Inserts at an index without replacing the existing item."
+      },
+      "code": "items = [1, 3]\nitems.insert(1, 2)\nprint(items)",
+      "token": "insert",
+      "kind": "code",
+      "output": "[1, 2, 3]",
+      "blank": "items = [1, 3]\nitems.____(1, 2)\nprint(items)",
+      "variant": "items = [2, 3]\nitems.insert(1, 2)\nprint(items)",
+      "variant_output": "[2, 2, 3]",
+      "exercise_count": 4
+    },
+    {
+      "id": "c11-l005",
+      "chapter": 11,
+      "page": 73,
+      "title": {
+        "ar": "إضافة عنصر",
+        "en": "Append"
+      },
+      "explanation": {
+        "ar": "يضيف وسيطه عنصرًا واحدًا في النهاية.",
+        "en": "Adds its argument as one element at the end."
+      },
+      "code": "items = [1]\nitems.append(2)\nprint(items)",
+      "token": "append",
+      "kind": "code",
+      "output": "[1, 2]",
+      "blank": "items = [1]\nitems.____(2)\nprint(items)",
+      "variant": "items = [2]\nitems.append(2)\nprint(items)",
+      "variant_output": "[2, 2]",
+      "exercise_count": 4
+    },
+    {
+      "id": "c11-l006",
+      "chapter": 11,
+      "page": 73,
+      "title": {
+        "ar": "توسيع القائمة",
+        "en": "Extend"
+      },
+      "explanation": {
+        "ar": "يضيف عناصر الكائن القابل للتكرار، لا الكائن كعنصر واحد.",
+        "en": "Adds individual items from an iterable, not the iterable as one item."
+      },
+      "code": "items = [1]\nitems.extend((2, 3))\nprint(items)",
+      "token": "extend",
+      "kind": "code",
+      "output": "[1, 2, 3]",
+      "blank": "items = [1]\nitems.____((2, 3))\nprint(items)",
+      "variant": "items = [2]\nitems.extend((2, 3))\nprint(items)",
+      "variant_output": "[2, 2, 3]",
+      "exercise_count": 4
+    },
+    {
+      "id": "c11-l007",
+      "chapter": 11,
+      "page": 74,
+      "title": {
+        "ar": "حذف حسب القيمة",
+        "en": "Remove by value"
+      },
+      "explanation": {
+        "ar": "يحذف أول عنصر مساوٍ للقيمة، ويرفع ValueError إن غابت.",
+        "en": "Removes the first equal value; raises ValueError if absent."
+      },
+      "code": "items = [1, 2, 2]\nitems.remove(2)\nprint(items)",
+      "token": "remove",
+      "kind": "code",
+      "output": "[1, 2]",
+      "blank": "items = [1, 2, 2]\nitems.____(2)\nprint(items)",
+      "variant": "items = [2, 2, 2]\nitems.remove(2)\nprint(items)",
+      "variant_output": "[2, 2]",
+      "exercise_count": 4
+    },
+    {
+      "id": "c11-l008",
+      "chapter": 11,
+      "page": 74,
+      "title": {
+        "ar": "حذف حسب الفهرس",
+        "en": "Pop by index"
+      },
+      "explanation": {
+        "ar": "يحذف العنصر ويعيده؛ الفهرس الافتراضي يشير إلى الأخير.",
+        "en": "Removes and returns an item; defaults to the last item."
+      },
+      "code": "items = [1, 2, 3]\nprint(items.pop(1))\nprint(items)",
+      "token": "pop",
+      "kind": "code",
+      "output": "2\n[1, 3]",
+      "blank": "items = [1, 2, 3]\nprint(items.____(1))\nprint(items)",
+      "variant": "items = [2, 2, 3]\nprint(items.pop(1))\nprint(items)",
+      "variant_output": "2\n[2, 3]",
+      "exercise_count": 4
+    },
+    {
+      "id": "c11-l009",
+      "chapter": 11,
+      "page": 75,
+      "title": {
+        "ar": "إفراغ القائمة",
+        "en": "Clear"
+      },
+      "explanation": {
+        "ar": "يحذف جميع العناصر ويبقي القائمة نفسها.",
+        "en": "Removes all items while retaining the list object."
+      },
+      "code": "items = [1, 2]\nitems.clear()\nprint(items)",
+      "token": "clear",
+      "kind": "code",
+      "output": "[]",
+      "blank": "items = [1, 2]\nitems.____()\nprint(items)",
+      "variant": "items = [1, 2]\nitems.clear()\nprint(items)",
+      "variant_output": "[]",
+      "exercise_count": 4
+    },
+    {
+      "id": "c11-l010",
+      "chapter": 11,
+      "page": 75,
+      "title": {
+        "ar": "حلقات القوائم",
+        "en": "List loops"
+      },
+      "explanation": {
+        "ar": "يمكن التكرار مباشرةً على العناصر أو على فهارسها باستخدام range وlen؛ يمكن أيضًا استخدام while مع تحديث الفهرس.",
+        "en": "Iterate over elements or indices using range and len; while requires updating an index."
+      },
+      "code": "items = [\"apple\", \"banana\"]\nfor i in range(len(items)):\n    print(i, items[i])",
+      "token": "for",
+      "kind": "code",
+      "output": "0 apple\n1 banana",
+      "blank": "items = [\"apple\", \"banana\"]\n____ i in range(len(items)):\n    print(i, items[i])",
+      "variant": "items = [\"apple\", \"banana\"]\nfor i in range(len(items)):\n    print(i, items[i])",
+      "variant_output": "0 apple\n1 banana",
+      "exercise_count": 4
+    },
+    {
+      "id": "c11-l011",
+      "chapter": 11,
+      "page": 76,
+      "title": {
+        "ar": "فهم القوائم",
+        "en": "List comprehensions"
+      },
+      "explanation": {
+        "ar": "ينشئ التعبير [expression for item in iterable if condition] قائمة جديدة، والشرط اختياري.",
+        "en": "A comprehension builds a new list from an expression and iteration, with an optional filter."
+      },
+      "code": "items = [1, 2, 3, 4]\nresult = [x * 2 for x in items if x > 2]\nprint(result)",
+      "token": "for",
+      "kind": "code",
+      "output": "[6, 8]",
+      "blank": "items = [1, 2, 3, 4]\nresult = [x * 2 ____ x in items if x > 2]\nprint(result)",
+      "variant": "items = [1, 3, 3, 4]\nresult = [x * 2 for x in items if x > 2]\nprint(result)",
+      "variant_output": "[6, 6, 8]",
+      "exercise_count": 4
+    },
+    {
+      "id": "c11-l012",
+      "chapter": 11,
+      "page": 78,
+      "title": {
+        "ar": "الفرز ومفتاحه",
+        "en": "Sort and sort keys"
+      },
+      "explanation": {
+        "ar": "sort يعدّل القائمة في مكانها؛ reverse=True يعكس اتجاه الفرز، وkey يحدّد مفتاح المقارنة.",
+        "en": "sort modifies the list in place; reverse changes direction and key selects comparison keys."
+      },
+      "code": "items = [3, 1, 2]\nitems.sort(reverse=True)\nprint(items)\nwords = [\"banana\", \"Kiwi\", \"apple\"]\nwords.sort(key=str.lower)\nprint(words)",
+      "token": "sort",
+      "kind": "code",
+      "output": "[3, 2, 1]\n['apple', 'banana', 'Kiwi']",
+      "blank": "items = [3, 1, 2]\nitems.____(reverse=True)\nprint(items)\nwords = [\"banana\", \"Kiwi\", \"apple\"]\nwords.sort(key=str.lower)\nprint(words)",
+      "variant": "items = [4, 1, 2]\nitems.sort(reverse=True)\nprint(items)\nwords = ['banana', 'Kiwi', 'apple']\nwords.sort(key=str.lower)\nprint(words)",
+      "variant_output": "[4, 2, 1]\n['apple', 'banana', 'Kiwi']",
+      "exercise_count": 4
+    },
+    {
+      "id": "c11-l013",
+      "chapter": 11,
+      "page": 79,
+      "title": {
+        "ar": "عكس الترتيب",
+        "en": "Reverse"
+      },
+      "explanation": {
+        "ar": "يعكس الترتيب الحالي دون فرز.",
+        "en": "Reverses the existing order without sorting."
+      },
+      "code": "items = [2, 1, 3]\nitems.reverse()\nprint(items)",
+      "token": "reverse",
+      "kind": "code",
+      "output": "[3, 1, 2]",
+      "blank": "items = [2, 1, 3]\nitems.____()\nprint(items)",
+      "variant": "items = [3, 1, 3]\nitems.reverse()\nprint(items)",
+      "variant_output": "[3, 1, 3]",
+      "exercise_count": 4
+    },
+    {
+      "id": "c11-l014",
+      "chapter": 11,
+      "page": 80,
+      "title": {
+        "ar": "نسخ القائمة",
+        "en": "Copy"
+      },
+      "explanation": {
+        "ar": "copy ينشئ نسخة سطحية؛ الإسناد وحده لا ينشئ نسخة مستقلة.",
+        "en": "copy makes a shallow copy; assignment alone aliases the same list."
+      },
+      "code": "items = [1, 2]\nother = items.copy()\nother.append(3)\nprint(items)\nprint(other)",
+      "token": "copy",
+      "kind": "code",
+      "output": "[1, 2]\n[1, 2, 3]",
+      "blank": "items = [1, 2]\nother = items.____()\nother.append(3)\nprint(items)\nprint(other)",
+      "variant": "items = [2, 2]\nother = items.copy()\nother.append(3)\nprint(items)\nprint(other)",
+      "variant_output": "[2, 2]\n[2, 2, 3]",
+      "exercise_count": 4
+    },
+    {
+      "id": "c11-l015",
+      "chapter": 11,
+      "page": 80,
+      "title": {
+        "ar": "ربط القوائم وdel",
+        "en": "Joining lists and del"
+      },
+      "explanation": {
+        "ar": "يربط + قائمتين في قائمة جديدة. تحذف del عنصرًا أو نطاقًا، أو تحذف ارتباط الاسم كله.",
+        "en": "+ joins two lists into a new list. del removes an item, a slice or a name binding."
+      },
+      "code": "items = [1, 2] + [3]\ndel items[0]\nprint(items)",
+      "token": "del",
+      "kind": "code",
+      "output": "[2, 3]",
+      "blank": "items = [1, 2] + [3]\n____ items[0]\nprint(items)",
+      "variant": "items = [1, 3] + [3]\ndel items[0]\nprint(items)",
+      "variant_output": "[3, 3]",
+      "exercise_count": 4
+    },
+    {
+      "id": "c11-l016",
+      "chapter": 11,
+      "page": 81,
+      "title": {
+        "ar": "عدّ عناصر القائمة",
+        "en": "Count list items"
+      },
+      "explanation": {
+        "ar": "يعدّ العناصر المساوية للقيمة المطلوبة.",
+        "en": "Counts elements equal to the requested value."
+      },
+      "code": "items = [1, 2, 2]\nprint(items.count(2))",
+      "token": "count",
+      "kind": "code",
+      "output": "2",
+      "blank": "items = [1, 2, 2]\nprint(items.____(2))",
+      "variant": "items = [2, 2, 2]\nprint(items.count(2))",
+      "variant_output": "3",
+      "exercise_count": 4
+    },
+    {
+      "id": "c11-l017",
+      "chapter": 11,
+      "page": 81,
+      "title": {
+        "ar": "موضع عنصر القائمة",
+        "en": "Find a list item"
+      },
+      "explanation": {
+        "ar": "يعيد فهرس أول عنصر مطابق، ويرفع ValueError إذا غاب.",
+        "en": "Returns the first matching index; raises ValueError if absent."
+      },
+      "code": "items = [\"apple\", \"banana\"]\nprint(items.index(\"banana\"))",
+      "token": "index",
+      "kind": "code",
+      "output": "1",
+      "blank": "items = [\"apple\", \"banana\"]\nprint(items.____(\"banana\"))",
+      "variant": "items = [\"apple\", \"banana\"]\nprint(items.index(\"banana\"))",
+      "variant_output": "1",
+      "exercise_count": 4
+    },
+    {
+      "id": "c12-l001",
+      "chapter": 12,
+      "page": 82,
+      "title": {
+        "ar": "إنشاء الصف الثابت",
+        "en": "Creating tuples"
+      },
+      "explanation": {
+        "ar": "tuple تسلسل مرتّب يسمح بالتكرار ولا يمكن إعادة إسناد عناصره. الفاصلة تصنع صفًا ذا عنصر واحد.",
+        "en": "A tuple is an ordered sequence allowing duplicates; its elements cannot be reassigned. A comma creates a one-item tuple."
+      },
+      "code": "items = (\"apple\",)\nprint(type(items).__name__)\nprint(len(items))",
+      "token": "print",
+      "kind": "code",
+      "output": "tuple\n1",
+      "blank": "items = (\"apple\",)\n____(type(items).__name__)\nprint(len(items))",
+      "variant": "items = (\"apple\",)\nprint(type(items).__name__)\nprint(len(items))",
+      "variant_output": "tuple\n1",
+      "exercise_count": 4
+    },
+    {
+      "id": "c12-l002",
+      "chapter": 12,
+      "page": 84,
+      "title": {
+        "ar": "الوصول إلى الصفوف",
+        "en": "Tuple access"
+      },
+      "explanation": {
+        "ar": "يدعم tuple الفهرسة السالبة والتقطيع والعضوية كما تدعمها القوائم.",
+        "en": "Tuples support negative indexing, slicing and membership like lists."
+      },
+      "code": "items = tuple([1, 2, 3])\nprint(items[-1])\nprint(items[:2])\nprint(2 in items)",
+      "token": "tuple",
+      "kind": "code",
+      "output": "3\n(1, 2)\nTrue",
+      "blank": "items = ____([1, 2, 3])\nprint(items[-1])\nprint(items[:2])\nprint(2 in items)",
+      "variant": "items = tuple([2, 2, 3])\nprint(items[-1])\nprint(items[:2])\nprint(2 in items)",
+      "variant_output": "3\n(2, 2)\nTrue",
+      "exercise_count": 4
+    },
+    {
+      "id": "c12-l003",
+      "chapter": 12,
+      "page": 85,
+      "title": {
+        "ar": "إعادة بناء الصف",
+        "en": "Rebuilding a tuple"
+      },
+      "explanation": {
+        "ar": "لا نعدّل tuple مباشرةً. يمكن تحويله إلى list ثم تعديله وإعادة تحويله، أو ربطه بصف آخر لإنشاء صف جديد.",
+        "en": "You cannot mutate a tuple directly. Convert to a list, edit and convert back, or concatenate to create a new tuple."
+      },
+      "code": "items = (1, 2)\ntemp = list(items)\ntemp.remove(1)\ntemp.append(3)\nitems = tuple(temp)\nprint(items)",
+      "token": "tuple",
+      "kind": "code",
+      "output": "(2, 3)",
+      "blank": "items = (1, 2)\ntemp = list(items)\ntemp.remove(1)\ntemp.append(3)\nitems = ____(temp)\nprint(items)",
+      "variant": "items = (1, 3)\ntemp = list(items)\ntemp.remove(1)\ntemp.append(3)\nitems = tuple(temp)\nprint(items)",
+      "variant_output": "(3, 3)",
+      "exercise_count": 4
+    },
+    {
+      "id": "c12-l004",
+      "chapter": 12,
+      "page": 87,
+      "title": {
+        "ar": "فك الصف والنجمة",
+        "en": "Tuple unpacking and starred targets"
+      },
+      "explanation": {
+        "ar": "تفك القيم إلى أسماء؛ يلتقط الاسم المسبوق بنجمة العناصر المتبقية في قائمة.",
+        "en": "Unpacking binds values to names; a starred name collects remaining values in a list."
+      },
+      "code": "first, *rest = (1, 2, 3)\nprint(first)\nprint(rest)",
+      "token": "rest",
+      "kind": "code",
+      "output": "1\n[2, 3]",
+      "blank": "first, *____ = (1, 2, 3)\nprint(first)\nprint(rest)",
+      "variant": "first, *rest = (2, 2, 3)\nprint(first)\nprint(rest)",
+      "variant_output": "2\n[2, 3]",
+      "exercise_count": 4
+    },
+    {
+      "id": "c12-l005",
+      "chapter": 12,
+      "page": 88,
+      "title": {
+        "ar": "تكرار الصف وربطه ومضاعفته",
+        "en": "Tuple iteration, joining and repetition"
+      },
+      "explanation": {
+        "ar": "يمكن المرور على العناصر وربط الصفوف بـ + وتكرارها بـ *.",
+        "en": "Iterate over tuples, concatenate with + and repeat with *."
+      },
+      "code": "items = (1, 2) + (3,)\nfor x in items:\n    print(x)\nprint((1,) * 3)",
+      "token": "for",
+      "kind": "code",
+      "output": "1\n2\n3\n(1, 1, 1)",
+      "blank": "items = (1, 2) + (3,)\n____ x in items:\n    print(x)\nprint((1,) * 3)",
+      "variant": "items = (2, 2) + (3,)\nfor x in items:\n    print(x)\nprint((1,) * 3)",
+      "variant_output": "2\n2\n3\n(1, 1, 1)",
+      "exercise_count": 4
+    },
+    {
+      "id": "c12-l006",
+      "chapter": 12,
+      "page": 89,
+      "title": {
+        "ar": "count وindex للصفوف",
+        "en": "Tuple count and index"
+      },
+      "explanation": {
+        "ar": "count يعدّ القيم المتساوية، وindex يعيد أول فهرس مطابق.",
+        "en": "count counts equal values; index returns the first matching position."
+      },
+      "code": "items = (1, 2, 2)\nprint(items.count(2))\nprint(items.index(2))",
+      "token": "count",
+      "kind": "code",
+      "output": "2\n1",
+      "blank": "items = (1, 2, 2)\nprint(items.____(2))\nprint(items.index(2))",
+      "variant": "items = (2, 2, 2)\nprint(items.count(2))\nprint(items.index(2))",
+      "variant_output": "3\n0",
+      "exercise_count": 4
+    },
+    {
+      "id": "c13-l001",
+      "chapter": 13,
+      "page": 90,
+      "title": {
+        "ar": "خصائص المجموعات",
+        "en": "Set properties"
+      },
+      "explanation": {
+        "ar": "set يجمع عناصر فريدة قابلة للتجزئة، ولا يقدّم ترتيبًا ثابتًا أو وصولًا بالفهرس. لإنشاء مجموعة فارغة نستخدم set() وليس {}.",
+        "en": "A set stores unique hashable items without guaranteed order or indexing. Use set(), not {}, for an empty set."
+      },
+      "code": "items = {1, 1, 2}\nprint(len(items))\nprint(2 in items)\nprint(type(set()).__name__)",
+      "token": "set",
+      "kind": "code",
+      "output": "2\nTrue\nset",
+      "blank": "items = {1, 1, 2}\nprint(len(items))\nprint(2 in items)\nprint(type(____()).__name__)",
+      "variant": "items = {1, 1, 3}\nprint(len(items))\nprint(2 in items)\nprint(type(set()).__name__)",
+      "variant_output": "2\nFalse\nset",
+      "exercise_count": 4
+    },
+    {
+      "id": "c13-l002",
+      "chapter": 13,
+      "page": 93,
+      "title": {
+        "ar": "إضافة عنصر للمجموعة",
+        "en": "Add a set item"
+      },
+      "explanation": {
+        "ar": "يضيف عنصرًا واحدًا؛ تكراره لا يزيد عدد العناصر. نستخدم sorted لعرض النتيجة بترتيب ثابت فقط.",
+        "en": "Adds one item; adding it again does not increase the size. sorted is used only to display a deterministic order."
+      },
+      "code": "s = {1}\ns.add(2)\nprint(sorted(s))",
+      "token": "add",
+      "kind": "code",
+      "output": "[1, 2]",
+      "blank": "s = {1}\ns.____(2)\nprint(sorted(s))",
+      "variant": "s = {2}\ns.add(2)\nprint(sorted(s))",
+      "variant_output": "[2]",
+      "exercise_count": 4
+    },
+    {
+      "id": "c13-l003",
+      "chapter": 13,
+      "page": 93,
+      "title": {
+        "ar": "تحديث المجموعة",
+        "en": "Update a set"
+      },
+      "explanation": {
+        "ar": "يضيف عناصر أي iterable إلى المجموعة دون تكرار. نستخدم sorted لعرض النتيجة بترتيب ثابت فقط.",
+        "en": "Adds items from an iterable without duplicates. sorted is used only to display a deterministic order."
+      },
+      "code": "s = {1}\ns.update([2, 2, 3])\nprint(sorted(s))",
+      "token": "update",
+      "kind": "code",
+      "output": "[1, 2, 3]",
+      "blank": "s = {1}\ns.____([2, 2, 3])\nprint(sorted(s))",
+      "variant": "s = {2}\ns.update([2, 2, 3])\nprint(sorted(s))",
+      "variant_output": "[2, 3]",
+      "exercise_count": 4
+    },
+    {
+      "id": "c13-l004",
+      "chapter": 13,
+      "page": 93,
+      "title": {
+        "ar": "حذف عنصر موجود",
+        "en": "Remove a set item"
+      },
+      "explanation": {
+        "ar": "يرفع KeyError إذا لم يوجد العنصر المطلوب. نستخدم sorted لعرض النتيجة بترتيب ثابت فقط.",
+        "en": "Raises KeyError when the requested item is absent. sorted is used only to display a deterministic order."
+      },
+      "code": "s = {1, 2}\ns.remove(1)\nprint(sorted(s))",
+      "token": "remove",
+      "kind": "code",
+      "output": "[2]",
+      "blank": "s = {1, 2}\ns.____(1)\nprint(sorted(s))",
+      "variant": "s = {1, 3}\ns.remove(1)\nprint(sorted(s))",
+      "variant_output": "[3]",
+      "exercise_count": 4
+    },
+    {
+      "id": "c13-l005",
+      "chapter": 13,
+      "page": 94,
+      "title": {
+        "ar": "حذف دون خطأ عند الغياب",
+        "en": "Discard a set item"
+      },
+      "explanation": {
+        "ar": "لا يرفع خطأ إذا كان العنصر غائبًا. نستخدم sorted لعرض النتيجة بترتيب ثابت فقط.",
+        "en": "Does not raise an error when the item is absent. sorted is used only to display a deterministic order."
+      },
+      "code": "s = {1, 2}\ns.discard(3)\nprint(sorted(s))",
+      "token": "discard",
+      "kind": "code",
+      "output": "[1, 2]",
+      "blank": "s = {1, 2}\ns.____(3)\nprint(sorted(s))",
+      "variant": "s = {2, 2}\ns.discard(3)\nprint(sorted(s))",
+      "variant_output": "[2]",
+      "exercise_count": 4
+    },
+    {
+      "id": "c13-l006",
+      "chapter": 13,
+      "page": 94,
+      "title": {
+        "ar": "سحب عنصر غير محدّد",
+        "en": "Pop an arbitrary item"
+      },
+      "explanation": {
+        "ar": "يحذف عنصرًا غير محدّد؛ لا تعتمد على ترتيب اختياره. نستخدم sorted لعرض النتيجة بترتيب ثابت فقط.",
+        "en": "Removes an arbitrary item; do not rely on which item is chosen. sorted is used only to display a deterministic order."
+      },
+      "code": "s = {1, 2, 3}\nx = s.pop()\nprint(x in {1, 2, 3})\nprint(len(s))",
+      "token": "pop",
+      "kind": "code",
+      "output": "True\n2",
+      "blank": "s = {1, 2, 3}\nx = s.____()\nprint(x in {1, 2, 3})\nprint(len(s))",
+      "variant": "s = {2, 2, 3}\nx = s.pop()\nprint(x in {1, 2, 3})\nprint(len(s))",
+      "variant_output": "True\n1",
+      "exercise_count": 4
+    },
+    {
+      "id": "c13-l007",
+      "chapter": 13,
+      "page": 94,
+      "title": {
+        "ar": "إفراغ المجموعة",
+        "en": "Clear a set"
+      },
+      "explanation": {
+        "ar": "يحذف كل عناصر المجموعة. نستخدم sorted لعرض النتيجة بترتيب ثابت فقط.",
+        "en": "Removes every item. sorted is used only to display a deterministic order."
+      },
+      "code": "s = {1, 2}\ns.clear()\nprint(len(s))",
+      "token": "clear",
+      "kind": "code",
+      "output": "0",
+      "blank": "s = {1, 2}\ns.____()\nprint(len(s))",
+      "variant": "s = {1, 2}\ns.clear()\nprint(len(s))",
+      "variant_output": "0",
+      "exercise_count": 4
+    },
+    {
+      "id": "c13-l008",
+      "chapter": 13,
+      "page": 95,
+      "title": {
+        "ar": "الاتحاد",
+        "en": "Union"
+      },
+      "explanation": {
+        "ar": "يجمع عناصر المجموعتين في مجموعة جديدة. نستخدم sorted لعرض النتيجة بترتيب ثابت فقط.",
+        "en": "Returns a new set containing items from both sets. sorted is used only to display a deterministic order."
+      },
+      "code": "print(sorted({1, 2}.union({2, 3})))",
+      "token": "union",
+      "kind": "code",
+      "output": "[1, 2, 3]",
+      "blank": "print(sorted({1, 2}.____({2, 3})))",
+      "variant": "print(sorted({1, 2}.union({2, 4})))",
+      "variant_output": "[1, 2, 4]",
+      "exercise_count": 4
+    },
+    {
+      "id": "c13-l009",
+      "chapter": 13,
+      "page": 96,
+      "title": {
+        "ar": "التقاطع",
+        "en": "Intersection"
+      },
+      "explanation": {
+        "ar": "يعيد العناصر المشتركة فقط. نستخدم sorted لعرض النتيجة بترتيب ثابت فقط.",
+        "en": "Returns only shared items. sorted is used only to display a deterministic order."
+      },
+      "code": "print(sorted({1, 2}.intersection({2, 3})))",
+      "token": "intersection",
+      "kind": "code",
+      "output": "[2]",
+      "blank": "print(sorted({1, 2}.____({2, 3})))",
+      "variant": "print(sorted({1, 2}.intersection({3, 3})))",
+      "variant_output": "[]",
+      "exercise_count": 4
+    },
+    {
+      "id": "c13-l010",
+      "chapter": 13,
+      "page": 96,
+      "title": {
+        "ar": "تحديث التقاطع",
+        "en": "Intersection update"
+      },
+      "explanation": {
+        "ar": "يحتفظ بالعناصر المشتركة داخل المجموعة نفسها. نستخدم sorted لعرض النتيجة بترتيب ثابت فقط.",
+        "en": "Keeps only common items in the original set. sorted is used only to display a deterministic order."
+      },
+      "code": "s = {1, 2}\ns.intersection_update({2, 3})\nprint(sorted(s))",
+      "token": "intersection_update",
+      "kind": "code",
+      "output": "[2]",
+      "blank": "s = {1, 2}\ns.____({2, 3})\nprint(sorted(s))",
+      "variant": "s = {1, 3}\ns.intersection_update({2, 3})\nprint(sorted(s))",
+      "variant_output": "[3]",
+      "exercise_count": 4
+    },
+    {
+      "id": "c13-l011",
+      "chapter": 13,
+      "page": 97,
+      "title": {
+        "ar": "الفرق",
+        "en": "Difference"
+      },
+      "explanation": {
+        "ar": "يعيد عناصر المجموعة الأولى غير الموجودة في الثانية. نستخدم sorted لعرض النتيجة بترتيب ثابت فقط.",
+        "en": "Returns items in the first set but not the second. sorted is used only to display a deterministic order."
+      },
+      "code": "print(sorted({1, 2}.difference({2, 3})))",
+      "token": "difference",
+      "kind": "code",
+      "output": "[1]",
+      "blank": "print(sorted({1, 2}.____({2, 3})))",
+      "variant": "print(sorted({1, 2}.difference({3, 3})))",
+      "variant_output": "[1, 2]",
+      "exercise_count": 4
+    },
+    {
+      "id": "c13-l012",
+      "chapter": 13,
+      "page": 97,
+      "title": {
+        "ar": "تحديث الفرق",
+        "en": "Difference update"
+      },
+      "explanation": {
+        "ar": "يحذف العناصر المشتركة من المجموعة نفسها. نستخدم sorted لعرض النتيجة بترتيب ثابت فقط.",
+        "en": "Removes common items from the original set. sorted is used only to display a deterministic order."
+      },
+      "code": "s = {1, 2}\ns.difference_update({2, 3})\nprint(sorted(s))",
+      "token": "difference_update",
+      "kind": "code",
+      "output": "[1]",
+      "blank": "s = {1, 2}\ns.____({2, 3})\nprint(sorted(s))",
+      "variant": "s = {2, 2}\ns.difference_update({2, 3})\nprint(sorted(s))",
+      "variant_output": "[]",
+      "exercise_count": 4
+    },
+    {
+      "id": "c13-l013",
+      "chapter": 13,
+      "page": 98,
+      "title": {
+        "ar": "الفرق التناظري",
+        "en": "Symmetric difference"
+      },
+      "explanation": {
+        "ar": "يعيد العناصر الموجودة في مجموعة واحدة فقط. نستخدم sorted لعرض النتيجة بترتيب ثابت فقط.",
+        "en": "Returns items appearing in exactly one set. sorted is used only to display a deterministic order."
+      },
+      "code": "print(sorted({1, 2}.symmetric_difference({2, 3})))",
+      "token": "symmetric_difference",
+      "kind": "code",
+      "output": "[1, 3]",
+      "blank": "print(sorted({1, 2}.____({2, 3})))",
+      "variant": "print(sorted({1, 2}.symmetric_difference({3, 3})))",
+      "variant_output": "[1, 2, 3]",
+      "exercise_count": 4
+    },
+    {
+      "id": "c13-l014",
+      "chapter": 13,
+      "page": 98,
+      "title": {
+        "ar": "تحديث الفرق التناظري",
+        "en": "Symmetric difference update"
+      },
+      "explanation": {
+        "ar": "يعدّل المجموعة لتحتوي العناصر الموجودة في طرف واحد فقط. نستخدم sorted لعرض النتيجة بترتيب ثابت فقط.",
+        "en": "Mutates the set to keep items from exactly one operand. sorted is used only to display a deterministic order."
+      },
+      "code": "s = {1, 2}\ns.symmetric_difference_update({2, 3})\nprint(sorted(s))",
+      "token": "symmetric_difference_update",
+      "kind": "code",
+      "output": "[1, 3]",
+      "blank": "s = {1, 2}\ns.____({2, 3})\nprint(sorted(s))",
+      "variant": "s = {2, 2}\ns.symmetric_difference_update({2, 3})\nprint(sorted(s))",
+      "variant_output": "[3]",
+      "exercise_count": 4
+    },
+    {
+      "id": "c13-l015",
+      "chapter": 13,
+      "page": 99,
+      "title": {
+        "ar": "نسخ المجموعة",
+        "en": "Copy a set"
+      },
+      "explanation": {
+        "ar": "ينشئ نسخة سطحية مستقلة من المجموعة. نستخدم sorted لعرض النتيجة بترتيب ثابت فقط.",
+        "en": "Creates a separate shallow copy. sorted is used only to display a deterministic order."
+      },
+      "code": "s = {1}\nt = s.copy()\nt.add(2)\nprint(sorted(s))",
+      "token": "copy",
+      "kind": "code",
+      "output": "[1]",
+      "blank": "s = {1}\nt = s.____()\nt.add(2)\nprint(sorted(s))",
+      "variant": "s = {2}\nt = s.copy()\nt.add(2)\nprint(sorted(s))",
+      "variant_output": "[2]",
+      "exercise_count": 4
+    },
+    {
+      "id": "c13-l016",
+      "chapter": 13,
+      "page": 100,
+      "title": {
+        "ar": "عدم وجود تقاطع",
+        "en": "Disjoint sets"
+      },
+      "explanation": {
+        "ar": "يُرجع True عندما لا توجد عناصر مشتركة. نستخدم sorted لعرض النتيجة بترتيب ثابت فقط.",
+        "en": "Returns True when no items are shared. sorted is used only to display a deterministic order."
+      },
+      "code": "print({1, 2}.isdisjoint({3, 4}))",
+      "token": "isdisjoint",
+      "kind": "code",
+      "output": "True",
+      "blank": "print({1, 2}.____({3, 4}))",
+      "variant": "print({1, 3}.isdisjoint({3, 4}))",
+      "variant_output": "False",
+      "exercise_count": 4
+    },
+    {
+      "id": "c13-l017",
+      "chapter": 13,
+      "page": 101,
+      "title": {
+        "ar": "المجموعة الجزئية",
+        "en": "Subset"
+      },
+      "explanation": {
+        "ar": "يفحص وجود جميع عناصر المجموعة الأولى في الثانية. نستخدم sorted لعرض النتيجة بترتيب ثابت فقط.",
+        "en": "Tests whether every item of the first set is in the second. sorted is used only to display a deterministic order."
+      },
+      "code": "print({1}.issubset({1, 2}))",
+      "token": "issubset",
+      "kind": "code",
+      "output": "True",
+      "blank": "print({1}.____({1, 2}))",
+      "variant": "print({1}.issubset({2, 2}))",
+      "variant_output": "False",
+      "exercise_count": 4
+    },
+    {
+      "id": "c13-l018",
+      "chapter": 13,
+      "page": 102,
+      "title": {
+        "ar": "المجموعة الشاملة",
+        "en": "Superset"
+      },
+      "explanation": {
+        "ar": "يفحص احتواء المجموعة الأولى على كل عناصر الثانية. نستخدم sorted لعرض النتيجة بترتيب ثابت فقط.",
+        "en": "Tests whether the first set contains every item of the second. sorted is used only to display a deterministic order."
+      },
+      "code": "print({1, 2}.issuperset({1}))",
+      "token": "issuperset",
+      "kind": "code",
+      "output": "True",
+      "blank": "print({1, 2}.____({1}))",
+      "variant": "print({2, 2}.issuperset({1}))",
+      "variant_output": "False",
+      "exercise_count": 4
+    },
+    {
+      "id": "c14-l001",
+      "chapter": 14,
+      "page": 104,
+      "title": {
+        "ar": "إنشاء القاموس وخصائصه",
+        "en": "Creating dictionaries"
+      },
+      "explanation": {
+        "ar": "يربط dict مفاتيح فريدة بقيم. تكرار المفتاح يستبدل قيمته. تحتفظ إصدارات بايثون الحديثة بترتيب الإدراج.",
+        "en": "dict maps unique keys to values; duplicate keys replace a value. Modern Python preserves insertion order."
+      },
+      "code": "data = {\"name\": \"John\", \"age\": 36}\nprint(len(data))\nprint(data[\"name\"])",
+      "token": "data",
+      "kind": "code",
+      "output": "2\nJohn",
+      "blank": "____ = {\"name\": \"John\", \"age\": 36}\nprint(len(data))\nprint(data[\"name\"])",
+      "variant": "data = {\"name\": \"John\", \"age\": 36}\nprint(len(data))\nprint(data[\"name\"])",
+      "variant_output": "2\nJohn",
+      "exercise_count": 4
+    },
+    {
+      "id": "c14-l002",
+      "chapter": 14,
+      "page": 106,
+      "title": {
+        "ar": "get والمفاتيح والقيم والعناصر",
+        "en": "get, keys, values and items"
+      },
+      "explanation": {
+        "ar": "get يتيح قيمة افتراضية عند غياب المفتاح. keys وvalues وitems تقدّم عروضًا لمحتوى القاموس.",
+        "en": "get supports a default for missing keys. keys, values and items provide dictionary views."
+      },
+      "code": "data = dict(name=\"John\", age=36)\nprint(data.get(\"city\", \"Unknown\"))\nprint(list(data.keys()))\nprint(list(data.values()))\nprint(list(data.items()))",
+      "token": "get",
+      "kind": "code",
+      "output": "Unknown\n['name', 'age']\n['John', 36]\n[('name', 'John'), ('age', 36)]",
+      "blank": "data = dict(name=\"John\", age=36)\nprint(data.____(\"city\", \"Unknown\"))\nprint(list(data.keys()))\nprint(list(data.values()))\nprint(list(data.items()))",
+      "variant": "data = dict(name='John', age=37)\nprint(data.get('city', 'Unknown'))\nprint(list(data.keys()))\nprint(list(data.values()))\nprint(list(data.items()))",
+      "variant_output": "Unknown\n['name', 'age']\n['John', 37]\n[('name', 'John'), ('age', 37)]",
+      "exercise_count": 4
+    },
+    {
+      "id": "c14-l003",
+      "chapter": 14,
+      "page": 108,
+      "title": {
+        "ar": "تعديل القاموس وتحديثه",
+        "en": "Changing and updating dictionaries"
+      },
+      "explanation": {
+        "ar": "الإسناد إلى مفتاح يغيّر قيمته أو يضيفه. update يدمج الأزواج ويستبدل قيم المفاتيح الموجودة.",
+        "en": "Assignment changes or adds a key; update merges pairs and replaces existing values."
+      },
+      "code": "data = {\"age\": 36}\ndata[\"age\"] = 40\ndata.update({\"name\": \"John\"})\nprint(data)",
+      "token": "update",
+      "kind": "code",
+      "output": "{'age': 40, 'name': 'John'}",
+      "blank": "data = {\"age\": 36}\ndata[\"age\"] = 40\ndata.____({\"name\": \"John\"})\nprint(data)",
+      "variant": "data = {\"age\": 36}\ndata[\"age\"] = 40\ndata.update({\"name\": \"John\"})\nprint(data)",
+      "variant_output": "{'age': 40, 'name': 'John'}",
+      "exercise_count": 4
+    },
+    {
+      "id": "c14-l004",
+      "chapter": 14,
+      "page": 109,
+      "title": {
+        "ar": "حذف عناصر القاموس",
+        "en": "Removing dictionary items"
+      },
+      "explanation": {
+        "ar": "pop يحذف مفتاحًا ويعيد قيمته، وpopitem يحذف آخر زوج مُدرج. clear يفرغ القاموس، وdel يحذف مفتاحًا أو ارتباط الاسم.",
+        "en": "pop removes a key and returns its value; popitem removes the last inserted pair. clear empties the mapping; del removes a key or name."
+      },
+      "code": "data = {\"a\": 1, \"b\": 2}\nprint(data.pop(\"a\"))\nprint(data.popitem())\ndata.clear()\nprint(data)",
+      "token": "pop",
+      "kind": "code",
+      "output": "1\n('b', 2)\n{}",
+      "blank": "data = {\"a\": 1, \"b\": 2}\nprint(data.____(\"a\"))\nprint(data.popitem())\ndata.clear()\nprint(data)",
+      "variant": "data = {'a': 2, 'b': 2}\nprint(data.pop('a'))\nprint(data.popitem())\ndata.clear()\nprint(data)",
+      "variant_output": "2\n('b', 2)\n{}",
+      "exercise_count": 4
+    },
+    {
+      "id": "c14-l005",
+      "chapter": 14,
+      "page": 110,
+      "title": {
+        "ar": "الحلقات والنسخ",
+        "en": "Dictionary loops and copying"
+      },
+      "explanation": {
+        "ar": "التكرار المباشر يمر على المفاتيح. استخدم items للوصول إلى المفتاح والقيمة معًا. copy نسخة سطحية.",
+        "en": "Direct iteration yields keys. Use items for key-value pairs. copy is shallow."
+      },
+      "code": "data = {\"a\": 1, \"b\": 2}\nother = data.copy()\nfor key, value in other.items():\n    print(key, value)",
+      "token": "items",
+      "kind": "code",
+      "output": "a 1\nb 2",
+      "blank": "data = {\"a\": 1, \"b\": 2}\nother = data.copy()\nfor key, value in other.____():\n    print(key, value)",
+      "variant": "data = {'a': 2, 'b': 2}\nother = data.copy()\nfor key, value in other.items():\n    print(key, value)",
+      "variant_output": "a 2\nb 2",
+      "exercise_count": 4
+    },
+    {
+      "id": "c14-l006",
+      "chapter": 14,
+      "page": 111,
+      "title": {
+        "ar": "القواميس المتداخلة",
+        "en": "Nested dictionaries"
+      },
+      "explanation": {
+        "ar": "قد تكون قيمة المفتاح قاموسًا آخر؛ نصل إلى الداخل بتتابع المفاتيح.",
+        "en": "A dictionary value may itself be a dictionary; chain keys to access nested values."
+      },
+      "code": "family = {\"child1\": {\"name\": \"Emil\", \"year\": 2004}}\nprint(family[\"child1\"][\"name\"])",
+      "token": "family",
+      "kind": "code",
+      "output": "Emil",
+      "blank": "____ = {\"child1\": {\"name\": \"Emil\", \"year\": 2004}}\nprint(family[\"child1\"][\"name\"])",
+      "variant": "family = {\"child1\": {\"name\": \"Emil\", \"year\": 2004}}\nprint(family[\"child1\"][\"name\"])",
+      "variant_output": "Emil",
+      "exercise_count": 4
+    },
+    {
+      "id": "c14-l007",
+      "chapter": 14,
+      "page": 113,
+      "title": {
+        "ar": "fromkeys وsetdefault",
+        "en": "fromkeys and setdefault"
+      },
+      "explanation": {
+        "ar": "fromkeys ينشئ مفاتيح بقيمة افتراضية مشتركة. setdefault يعيد القيمة الموجودة أو يضيف الافتراضية إذا غاب المفتاح.",
+        "en": "fromkeys creates keys with a shared default. setdefault returns an existing value or inserts the default if missing."
+      },
+      "code": "data = dict.fromkeys([\"a\", \"b\"], 0)\nprint(data.setdefault(\"a\", 9))\nprint(data.setdefault(\"c\", 3))",
+      "token": "setdefault",
+      "kind": "code",
+      "output": "0\n3",
+      "blank": "data = dict.fromkeys([\"a\", \"b\"], 0)\nprint(data.____(\"a\", 9))\nprint(data.setdefault(\"c\", 3))",
+      "variant": "data = dict.fromkeys(['a', 'b'], 0)\nprint(data.setdefault('a', 9))\nprint(data.setdefault('c', 4))",
+      "variant_output": "0\n4",
+      "exercise_count": 4
+    },
+    {
+      "id": "c15-l001",
+      "chapter": 15,
+      "page": 115,
+      "title": {
+        "ar": "if وelif وelse",
+        "en": "if, elif and else"
+      },
+      "explanation": {
+        "ar": "تنفّذ أول كتلة شرط يتحقق فقط. else اختيارية وتعمل إذا لم يتحقق أي شرط سابق.",
+        "en": "Only the first true branch executes. Optional else runs when no previous condition is true."
+      },
+      "code": "a = 10\nif a > 10:\n    print(\"greater\")\nelif a == 10:\n    print(\"equal\")\nelse:\n    print(\"smaller\")",
+      "token": "if",
+      "kind": "code",
+      "output": "equal",
+      "blank": "a = 10\n____ a > 10:\n    print(\"greater\")\nelif a == 10:\n    print(\"equal\")\nelse:\n    print(\"smaller\")",
+      "variant": "a = 11\nif a > 10:\n    print('greater')\nelif a == 10:\n    print('equal')\nelse:\n    print('smaller')",
+      "variant_output": "greater",
+      "exercise_count": 4
+    },
+    {
+      "id": "c15-l002",
+      "chapter": 15,
+      "page": 116,
+      "title": {
+        "ar": "الصياغة الشرطية المختصرة",
+        "en": "Conditional expressions"
+      },
+      "explanation": {
+        "ar": "التعبير x if condition else y يختار قيمة حسب الشرط؛ الاختصار لا يغني عن وضوح الكود.",
+        "en": "x if condition else y selects a value based on a condition; keep the code readable."
+      },
+      "code": "a = 5\nprint(\"yes\" if a > 2 else \"no\")",
+      "token": "if",
+      "kind": "code",
+      "output": "yes",
+      "blank": "a = 5\nprint(\"yes\" ____ a > 2 else \"no\")",
+      "variant": "a = 5\nprint(\"yes\" if a > 2 else \"no\")",
+      "variant_output": "yes",
+      "exercise_count": 4
+    },
+    {
+      "id": "c15-l003",
+      "chapter": 15,
+      "page": 117,
+      "title": {
+        "ar": "ربط الشروط ونفيها",
+        "en": "Combining and negating conditions"
+      },
+      "explanation": {
+        "ar": "and يتطلب تحقق الطرفين، وor يكتفي بأحدهما، وnot يعكس القيمة المنطقية.",
+        "en": "and needs both conditions; or needs either; not reverses truth."
+      },
+      "code": "a = 5\nif a > 0 and a < 10:\n    print(\"inside\")\nif not a < 0:\n    print(\"nonnegative\")",
+      "token": "and",
+      "kind": "code",
+      "output": "inside\nnonnegative",
+      "blank": "a = 5\nif a > 0 ____ a < 10:\n    print(\"inside\")\nif not a < 0:\n    print(\"nonnegative\")",
+      "variant": "a = 5\nif a > 0 and a < 10:\n    print(\"inside\")\nif not a < 0:\n    print(\"nonnegative\")",
+      "variant_output": "inside\nnonnegative",
+      "exercise_count": 4
+    },
+    {
+      "id": "c15-l004",
+      "chapter": 15,
+      "page": 118,
+      "title": {
+        "ar": "التداخل وpass",
+        "en": "Nested conditions and pass"
+      },
+      "explanation": {
+        "ar": "يمكن وضع شرط داخل آخر. pass تعليمة لا تفعل شيئًا، وتسمح بترك كتلة مؤقتًا دون كسر الصياغة.",
+        "en": "Conditions can be nested. pass does nothing and provides a syntactically valid placeholder."
+      },
+      "code": "x = 20\nif x > 10:\n    if x > 15:\n        print(\"large\")\nif x < 0:\n    pass",
+      "token": "pass",
+      "kind": "code",
+      "output": "large",
+      "blank": "x = 20\nif x > 10:\n    if x > 15:\n        print(\"large\")\nif x < 0:\n    ____",
+      "variant": "x = 20\nif x > 10:\n    if x > 15:\n        print(\"large\")\nif x < 0:\n    pass",
+      "variant_output": "large",
+      "exercise_count": 4
+    },
+    {
+      "id": "c16-l001",
+      "chapter": 16,
+      "page": 119,
+      "title": {
+        "ar": "حلقة while",
+        "en": "while loops"
+      },
+      "explanation": {
+        "ar": "تكرّر while جسمها ما دام الشرط صحيحًا. يجب أن تتقدّم الحالة نحو الإنهاء لتجنب حلقة لا تنتهي.",
+        "en": "while repeats while a condition is true. Update state toward termination to avoid an infinite loop."
+      },
+      "code": "i = 1\nwhile i < 4:\n    print(i)\n    i += 1",
+      "token": "while",
+      "kind": "code",
+      "output": "1\n2\n3",
+      "blank": "i = 1\n____ i < 4:\n    print(i)\n    i += 1",
+      "variant": "i = 1\nwhile i < 4:\n    print(i)\n    i += 1",
+      "variant_output": "1\n2\n3",
+      "exercise_count": 4
+    },
+    {
+      "id": "c16-l002",
+      "chapter": 16,
+      "page": 119,
+      "title": {
+        "ar": "break وcontinue في while",
+        "en": "break and continue in while"
+      },
+      "explanation": {
+        "ar": "break ينهي الحلقة، وcontinue يتجاوز بقية الدورة الحالية. حدّث المتغير قبل continue عند الحاجة.",
+        "en": "break exits a loop; continue skips the remainder of an iteration. Update the loop variable before continue when needed."
+      },
+      "code": "i = 0\nwhile i < 5:\n    i += 1\n    if i == 2:\n        continue\n    if i == 4:\n        break\n    print(i)",
+      "token": "continue",
+      "kind": "code",
+      "output": "1\n3",
+      "blank": "i = 0\nwhile i < 5:\n    i += 1\n    if i == 2:\n        ____\n    if i == 4:\n        break\n    print(i)",
+      "variant": "i = 0\nwhile i < 5:\n    i += 1\n    if i == 2:\n        continue\n    if i == 4:\n        break\n    print(i)",
+      "variant_output": "1\n3",
+      "exercise_count": 4
+    },
+    {
+      "id": "c16-l003",
+      "chapter": 16,
+      "page": 120,
+      "title": {
+        "ar": "for وrange",
+        "en": "for and range"
+      },
+      "explanation": {
+        "ar": "تمر for على iterable. في range(start, stop, step) حد stop غير مشمول.",
+        "en": "for iterates over an iterable. range(start, stop, step) excludes stop."
+      },
+      "code": "for i in range(2, 7, 2):\n    print(i)",
+      "token": "range",
+      "kind": "code",
+      "output": "2\n4\n6",
+      "blank": "for i in ____(2, 7, 2):\n    print(i)",
+      "variant": "for i in range(3, 7, 2):\n    print(i)",
+      "variant_output": "3\n5",
+      "exercise_count": 4
+    },
+    {
+      "id": "c16-l004",
+      "chapter": 16,
+      "page": 121,
+      "title": {
+        "ar": "التحكم في for",
+        "en": "Control inside for"
+      },
+      "explanation": {
+        "ar": "break ينهي for قبل اكتمالها، وcontinue ينتقل إلى العنصر التالي.",
+        "en": "break exits for early; continue advances to the next item."
+      },
+      "code": "for x in [1, 2, 3, 4]:\n    if x == 2:\n        continue\n    if x == 4:\n        break\n    print(x)",
+      "token": "break",
+      "kind": "code",
+      "output": "1\n3",
+      "blank": "for x in [1, 2, 3, 4]:\n    if x == 2:\n        continue\n    if x == 4:\n        ____\n    print(x)",
+      "variant": "for x in [2, 2, 3, 4]:\n    if x == 2:\n        continue\n    if x == 4:\n        break\n    print(x)",
+      "variant_output": "3",
+      "exercise_count": 4
+    },
+    {
+      "id": "c16-l005",
+      "chapter": 16,
+      "page": 122,
+      "title": {
+        "ar": "else في الحلقات",
+        "en": "Loop else"
+      },
+      "explanation": {
+        "ar": "تعمل else بعد اكتمال الحلقة دون break. ليست بديلًا عن شرط if.",
+        "en": "Loop else runs after normal completion without break; it is not an if alternative."
+      },
+      "code": "for i in range(2):\n    print(i)\nelse:\n    print(\"done\")",
+      "token": "else",
+      "kind": "code",
+      "output": "0\n1\ndone",
+      "blank": "for i in range(2):\n    print(i)\n____:\n    print(\"done\")",
+      "variant": "for i in range(3):\n    print(i)\nelse:\n    print('done')",
+      "variant_output": "0\n1\n2\ndone",
+      "exercise_count": 4
+    },
+    {
+      "id": "c16-l006",
+      "chapter": 16,
+      "page": 122,
+      "title": {
+        "ar": "الحلقات المتداخلة",
+        "en": "Nested loops"
+      },
+      "explanation": {
+        "ar": "لكل دورة من الحلقة الخارجية تنفّذ الداخلية دوراتها. pass يمكنه ملء جسم حلقة فارغ.",
+        "en": "The inner loop completes for each outer iteration. pass can fill an empty loop body."
+      },
+      "code": "for x in [1, 2]:\n    for y in [3, 4]:\n        print(x, y)",
+      "token": "for",
+      "kind": "code",
+      "output": "1 3\n1 4\n2 3\n2 4",
+      "blank": "____ x in [1, 2]:\n    for y in [3, 4]:\n        print(x, y)",
+      "variant": "for x in [2, 2]:\n    for y in [3, 4]:\n        print(x, y)",
+      "variant_output": "2 3\n2 4\n2 3\n2 4",
+      "exercise_count": 4
+    },
+    {
+      "id": "c17-l001",
+      "chapter": 17,
+      "page": 123,
+      "title": {
+        "ar": "تعريف الدالة واستدعاؤها",
+        "en": "Defining and calling functions"
+      },
+      "explanation": {
+        "ar": "def يعرّف دالة، ولا يُنفَّذ جسمها حتى استدعائها. return يعيد نتيجة إلى المستدعي.",
+        "en": "def defines a function; the body runs when called. return sends a result to the caller."
+      },
+      "code": "def add(a, b):\n    return a + b\nprint(add(2, 3))",
+      "token": "return",
+      "kind": "code",
+      "output": "5",
+      "blank": "def add(a, b):\n    ____ a + b\nprint(add(2, 3))",
+      "variant": "def add(a, b):\n    return a + b\nprint(add(2, 3))",
+      "variant_output": "5",
+      "exercise_count": 4
+    },
+    {
+      "id": "c17-l002",
+      "chapter": 17,
+      "page": 124,
+      "title": {
+        "ar": "الوسائط والقيم الافتراضية",
+        "en": "Arguments and defaults"
+      },
+      "explanation": {
+        "ar": "يمكن تمرير الوسائط بالموضع أو بالاسم. تُستخدم القيمة الافتراضية عندما لا تُمرّر قيمة لذلك المعامل.",
+        "en": "Arguments can be positional or named. Defaults apply when an argument is omitted."
+      },
+      "code": "def greet(name=\"John\"):\n    return \"Hello \" + name\nprint(greet())\nprint(greet(name=\"Emil\"))",
+      "token": "def",
+      "kind": "code",
+      "output": "Hello John\nHello Emil",
+      "blank": "____ greet(name=\"John\"):\n    return \"Hello \" + name\nprint(greet())\nprint(greet(name=\"Emil\"))",
+      "variant": "def greet(name=\"John\"):\n    return \"Hello \" + name\nprint(greet())\nprint(greet(name=\"Emil\"))",
+      "variant_output": "Hello John\nHello Emil",
+      "exercise_count": 4
+    },
+    {
+      "id": "c17-l003",
+      "chapter": 17,
+      "page": 124,
+      "title": {
+        "ar": "args وkwargs",
+        "en": "args and kwargs"
+      },
+      "explanation": {
+        "ar": "يجمع *args الوسائط الموضعية في tuple، ويجمع **kwargs الوسائط المسماة في dict.",
+        "en": "*args collects positional arguments into a tuple; **kwargs collects keyword arguments into a dict."
+      },
+      "code": "def show(*args, **kwargs):\n    print(args)\n    print(kwargs[\"name\"])\nshow(1, 2, name=\"John\")",
+      "token": "args",
+      "kind": "code",
+      "output": "(1, 2)\nJohn",
+      "blank": "def show(*____, **kwargs):\n    print(args)\n    print(kwargs[\"name\"])\nshow(1, 2, name=\"John\")",
+      "variant": "def show(*args, **kwargs):\n    print(args)\n    print(kwargs[\"name\"])\nshow(1, 2, name=\"John\")",
+      "variant_output": "(1, 2)\nJohn",
+      "exercise_count": 4
+    },
+    {
+      "id": "c17-l004",
+      "chapter": 17,
+      "page": 125,
+      "title": {
+        "ar": "تمرير قائمة وإرجاع قيمة",
+        "en": "Passing lists and returning values"
+      },
+      "explanation": {
+        "ar": "يمكن تمرير قائمة للدالة كما نمرّر أي كائن. return ينهي الاستدعاء الحالي ويعيد القيمة.",
+        "en": "Pass a list like any other object. return ends the current call and returns a value."
+      },
+      "code": "def total(items):\n    return sum(items)\nprint(total([1, 2, 3]))",
+      "token": "return",
+      "kind": "code",
+      "output": "6",
+      "blank": "def total(items):\n    ____ sum(items)\nprint(total([1, 2, 3]))",
+      "variant": "def total(items):\n    return sum(items)\nprint(total([1, 2, 3]))",
+      "variant_output": "6",
+      "exercise_count": 4
+    },
+    {
+      "id": "c17-l005",
+      "chapter": 17,
+      "page": 126,
+      "title": {
+        "ar": "الوسائط الموضعية والمسماة فقط",
+        "en": "Positional-only and keyword-only parameters"
+      },
+      "explanation": {
+        "ar": "المعاملات قبل / موضعية فقط، وبعد * مسماة فقط. pass يتيح تعريف دالة فارغة مؤقتًا.",
+        "en": "Parameters before / are positional-only; after * they are keyword-only. pass permits an empty placeholder body."
+      },
+      "code": "def add(a, /, *, b):\n    return a + b\nprint(add(2, b=3))",
+      "token": "def",
+      "kind": "code",
+      "output": "5",
+      "blank": "____ add(a, /, *, b):\n    return a + b\nprint(add(2, b=3))",
+      "variant": "def add(a, /, *, b):\n    return a + b\nprint(add(2, b=3))",
+      "variant_output": "5",
+      "exercise_count": 4
+    },
+    {
+      "id": "c17-l006",
+      "chapter": 17,
+      "page": 127,
+      "title": {
+        "ar": "العودية وحالة الإنهاء",
+        "en": "Recursion and base cases"
+      },
+      "explanation": {
+        "ar": "الدالة العودية تستدعي نفسها. نحتاج حالة أساس، ويجب أن يقترب الاستدعاء منها.",
+        "en": "A recursive function calls itself; it needs a base case and progress toward that case."
+      },
+      "code": "def factorial(n):\n    if n <= 1:\n        return 1\n    return n * factorial(n - 1)\nprint(factorial(5))",
+      "token": "factorial",
+      "kind": "code",
+      "output": "120",
+      "blank": "def ____(n):\n    if n <= 1:\n        return 1\n    return n * factorial(n - 1)\nprint(factorial(5))",
+      "variant": "def factorial(n):\n    if n <= 1:\n        return 1\n    return n * factorial(n - 1)\nprint(factorial(5))",
+      "variant_output": "120",
+      "exercise_count": 4
+    },
+    {
+      "id": "c17-l007",
+      "chapter": 17,
+      "page": 129,
+      "title": {
+        "ar": "lambda",
+        "en": "Lambda expressions"
+      },
+      "explanation": {
+        "ar": "lambda تنشئ دالة بتعبير واحد، وتعيد نتيجته تلقائيًا.",
+        "en": "lambda creates a function consisting of one expression and returns its value."
+      },
+      "code": "double = lambda x: x * 2\nprint(double(5))",
+      "token": "lambda",
+      "kind": "code",
+      "output": "10",
+      "blank": "double = ____ x: x * 2\nprint(double(5))",
+      "variant": "double = lambda x: x * 3\nprint(double(5))",
+      "variant_output": "15",
+      "exercise_count": 4
+    },
+    {
+      "id": "c17-l008",
+      "chapter": 17,
+      "page": 130,
+      "title": {
+        "ar": "lambda مع map وfilter وsorted",
+        "en": "Lambda with map, filter and sorted"
+      },
+      "explanation": {
+        "ar": "تحوّل map العناصر، وتنتقي filter ما يحقق الشرط، وتستخدم sorted مفتاحًا لترتيب القيم.",
+        "en": "map transforms items, filter selects passing items and sorted can use a key function."
+      },
+      "code": "items = [3, 1, 2]\nprint(list(map(lambda x: x * 2, items)))\nprint(list(filter(lambda x: x > 1, items)))\nprint(sorted(items, key=lambda x: -x))",
+      "token": "lambda",
+      "kind": "code",
+      "output": "[6, 2, 4]\n[3, 2]\n[3, 2, 1]",
+      "blank": "items = [3, 1, 2]\nprint(list(map(____ x: x * 2, items)))\nprint(list(filter(lambda x: x > 1, items)))\nprint(sorted(items, key=lambda x: -x))",
+      "variant": "items = [4, 1, 2]\nprint(list(map(lambda x: x * 2, items)))\nprint(list(filter(lambda x: x > 1, items)))\nprint(sorted(items, key=lambda x: -x))",
+      "variant_output": "[8, 2, 4]\n[4, 2]\n[4, 2, 1]",
+      "exercise_count": 4
+    },
+    {
+      "id": "c18-l001",
+      "chapter": 18,
+      "page": 132,
+      "title": {
+        "ar": "المصفوفات في أمثلة الكتاب",
+        "en": "Arrays in the book examples"
+      },
+      "explanation": {
+        "ar": "يستخدم الفصل قوائم Python لشرح المصفوفات. هذه list وليست نوع array متخصصًا؛ تدعم الوصول والتعديل وlen وappend وpop.",
+        "en": "The chapter uses Python lists as arrays. These are list objects, not a specialized array type; indexing, len, append and pop apply."
+      },
+      "code": "cars = [\"Ford\", \"Volvo\", \"BMW\"]\ncars[0] = \"Toyota\"\ncars.append(\"Honda\")\nprint(len(cars))\nprint(cars.pop())",
+      "token": "cars",
+      "kind": "code",
+      "output": "4\nHonda",
+      "blank": "____ = [\"Ford\", \"Volvo\", \"BMW\"]\ncars[0] = \"Toyota\"\ncars.append(\"Honda\")\nprint(len(cars))\nprint(cars.pop())",
+      "variant": "cars = [\"Ford\", \"Volvo\", \"BMW\"]\ncars[0] = \"Toyota\"\ncars.append(\"Honda\")\nprint(len(cars))\nprint(cars.pop())",
+      "variant_output": "4\nHonda",
+      "exercise_count": 4
+    },
+    {
+      "id": "c18-l002",
+      "chapter": 18,
+      "page": 133,
+      "title": {
+        "ar": "التكرار وطرق المصفوفات",
+        "en": "Array-style iteration and methods"
+      },
+      "explanation": {
+        "ar": "يمر for على العناصر، وتُستخدم طرق القوائم نفسها لإضافة العناصر وإزالتها ونسخها وفرزها.",
+        "en": "for iterates over items; the same list methods add, remove, copy and sort elements."
+      },
+      "code": "cars = [\"Ford\", \"Volvo\", \"BMW\"]\ncars.remove(\"Volvo\")\nfor car in cars:\n    print(car)",
+      "token": "for",
+      "kind": "code",
+      "output": "Ford\nBMW",
+      "blank": "cars = [\"Ford\", \"Volvo\", \"BMW\"]\ncars.remove(\"Volvo\")\n____ car in cars:\n    print(car)",
+      "variant": "cars = [\"Ford\", \"Volvo\", \"BMW\"]\ncars.remove(\"Volvo\")\nfor car in cars:\n    print(car)",
+      "variant_output": "Ford\nBMW",
+      "exercise_count": 4
+    },
+    {
+      "id": "c19-l001",
+      "chapter": 19,
+      "page": 135,
+      "title": {
+        "ar": "تعريف الصنف وإنشاء كائن",
+        "en": "Classes and instances"
+      },
+      "explanation": {
+        "ar": "class يعرّف صنفًا، واستدعاء اسمه ينشئ كائنًا. نصل إلى الخصائص باستخدام النقطة.",
+        "en": "class defines a class; calling it creates an instance. Use dot notation for attributes."
+      },
+      "code": "class MyClass:\n    x = 5\nobj = MyClass()\nprint(obj.x)",
+      "token": "class",
+      "kind": "code",
+      "output": "5",
+      "blank": "____ MyClass:\n    x = 5\nobj = MyClass()\nprint(obj.x)",
+      "variant": "class MyClass:\n    x = 6\nobj = MyClass()\nprint(obj.x)",
+      "variant_output": "6",
+      "exercise_count": 4
+    },
+    {
+      "id": "c19-l002",
+      "chapter": 19,
+      "page": 135,
+      "title": {
+        "ar": "التهيئة وself",
+        "en": "Initialization and self"
+      },
+      "explanation": {
+        "ar": "تُستدعى __init__ عند تهيئة الكائن. يشير self إلى الكائن الحالي، ونخزن عليه خصائص كل نسخة.",
+        "en": "__init__ initializes an instance. self refers to the current instance; store per-instance attributes on it."
+      },
+      "code": "class Person:\n    def __init__(self, name):\n        self.name = name\np = Person(\"John\")\nprint(p.name)",
+      "token": "__init__",
+      "kind": "code",
+      "output": "John",
+      "blank": "class Person:\n    def ____(self, name):\n        self.name = name\np = Person(\"John\")\nprint(p.name)",
+      "variant": "class Person:\n    def __init__(self, name):\n        self.name = name\np = Person(\"John\")\nprint(p.name)",
+      "variant_output": "John",
+      "exercise_count": 4
+    },
+    {
+      "id": "c19-l003",
+      "chapter": 19,
+      "page": 136,
+      "title": {
+        "ar": "الطرق و__str__",
+        "en": "Methods and __str__"
+      },
+      "explanation": {
+        "ar": "الطريقة دالة داخل الصنف. تتحكم __str__ في التمثيل النصي الذي تستخدمه print للكائن.",
+        "en": "A method is a function defined in a class. __str__ defines the text representation used by print."
+      },
+      "code": "class Person:\n    def __init__(self, name):\n        self.name = name\n    def __str__(self):\n        return self.name\nprint(Person(\"John\"))",
+      "token": "__str__",
+      "kind": "code",
+      "output": "John",
+      "blank": "class Person:\n    def __init__(self, name):\n        self.name = name\n    def ____(self):\n        return self.name\nprint(Person(\"John\"))",
+      "variant": "class Person:\n    def __init__(self, name):\n        self.name = name\n    def __str__(self):\n        return self.name\nprint(Person(\"John\"))",
+      "variant_output": "John",
+      "exercise_count": 4
+    },
+    {
+      "id": "c19-l004",
+      "chapter": 19,
+      "page": 137,
+      "title": {
+        "ar": "تعديل الخصائص وحذفها",
+        "en": "Editing and deleting attributes"
+      },
+      "explanation": {
+        "ar": "الإسناد يغيّر الخاصية، وdel يحذفها. حذف اسم الكائن لا يعني بالضرورة حذف كل مرجع إليه.",
+        "en": "Assignment changes attributes; del removes them. Deleting a name does not necessarily remove all references to the object."
+      },
+      "code": "class Person:\n    pass\np = Person()\np.age = 36\np.age = 40\nprint(p.age)\ndel p.age\nprint(hasattr(p, \"age\"))",
+      "token": "del",
+      "kind": "code",
+      "output": "40\nFalse",
+      "blank": "class Person:\n    pass\np = Person()\np.age = 36\np.age = 40\nprint(p.age)\n____ p.age\nprint(hasattr(p, \"age\"))",
+      "variant": "class Person:\n    pass\np = Person()\np.age = 36\np.age = 40\nprint(p.age)\ndel p.age\nprint(hasattr(p, \"age\"))",
+      "variant_output": "40\nFalse",
+      "exercise_count": 4
+    },
+    {
+      "id": "c19-l005",
+      "chapter": 19,
+      "page": 138,
+      "title": {
+        "ar": "مثال صنف متكامل",
+        "en": "A complete class example"
+      },
+      "explanation": {
+        "ar": "نجمع الحالة والسلوك في كائن: تخزّن الخصائص البيانات، وتعدّل الطرق تلك البيانات.",
+        "en": "Combine state and behavior: attributes store data and methods operate on it."
+      },
+      "code": "class Student:\n    def __init__(self, name):\n        self.name = name\n        self.grades = []\n    def add_grade(self, grade):\n        self.grades.append(grade)\ns = Student(\"John\")\ns.add_grade(90)\nprint(s.name, s.grades)",
+      "token": "class",
+      "kind": "code",
+      "output": "John [90]",
+      "blank": "____ Student:\n    def __init__(self, name):\n        self.name = name\n        self.grades = []\n    def add_grade(self, grade):\n        self.grades.append(grade)\ns = Student(\"John\")\ns.add_grade(90)\nprint(s.name, s.grades)",
+      "variant": "class Student:\n    def __init__(self, name):\n        self.name = name\n        self.grades = []\n    def add_grade(self, grade):\n        self.grades.append(grade)\ns = Student(\"John\")\ns.add_grade(90)\nprint(s.name, s.grades)",
+      "variant_output": "John [90]",
+      "exercise_count": 4
+    },
+    {
+      "id": "c20-l001",
+      "chapter": 20,
+      "page": 141,
+      "title": {
+        "ar": "وراثة صنف",
+        "en": "Inheriting a class"
+      },
+      "explanation": {
+        "ar": "يكتب اسم الصنف الأب داخل الأقواس. يرث الابن السلوك ما لم يُعد تعريفه.",
+        "en": "Put the parent class in parentheses; the child inherits behavior unless it overrides it."
+      },
+      "code": "class Person:\n    def speak(self):\n        return \"Hello\"\nclass Student(Person):\n    pass\nprint(Student().speak())",
+      "token": "class",
+      "kind": "code",
+      "output": "Hello",
+      "blank": "____ Person:\n    def speak(self):\n        return \"Hello\"\nclass Student(Person):\n    pass\nprint(Student().speak())",
+      "variant": "class Person:\n    def speak(self):\n        return \"Hello\"\nclass Student(Person):\n    pass\nprint(Student().speak())",
+      "variant_output": "Hello",
+      "exercise_count": 4
+    },
+    {
+      "id": "c20-l002",
+      "chapter": 20,
+      "page": 142,
+      "title": {
+        "ar": "super وإضافة الخصائص",
+        "en": "super and extra attributes"
+      },
+      "explanation": {
+        "ar": "تستدعي super طريقةً وفق ترتيب البحث عن الطرق. يستخدمها المثال لاستدعاء تهيئة الأب ثم إضافة بيانات الابن.",
+        "en": "super delegates according to method resolution order; this example initializes the parent then adds child data."
+      },
+      "code": "class Person:\n    def __init__(self, name):\n        self.name = name\nclass Student(Person):\n    def __init__(self, name, year):\n        super().__init__(name)\n        self.year = year\ns = Student(\"Mike\", 2019)\nprint(s.name, s.year)",
+      "token": "super",
+      "kind": "code",
+      "output": "Mike 2019",
+      "blank": "class Person:\n    def __init__(self, name):\n        self.name = name\nclass Student(Person):\n    def __init__(self, name, year):\n        ____().__init__(name)\n        self.year = year\ns = Student(\"Mike\", 2019)\nprint(s.name, s.year)",
+      "variant": "class Person:\n    def __init__(self, name):\n        self.name = name\nclass Student(Person):\n    def __init__(self, name, year):\n        super().__init__(name)\n        self.year = year\ns = Student(\"Mike\", 2019)\nprint(s.name, s.year)",
+      "variant_output": "Mike 2019",
+      "exercise_count": 4
+    },
+    {
+      "id": "c20-l003",
+      "chapter": 20,
+      "page": 143,
+      "title": {
+        "ar": "إعادة تعريف السلوك",
+        "en": "Overriding behavior"
+      },
+      "explanation": {
+        "ar": "يمكن للصنف الابن إعادة تعريف طريقة موروثة. استخدم الوراثة لعلاقة منطقية بين الأنواع، لا لمجرد تقليل الأسطر.",
+        "en": "A child can override an inherited method. Use inheritance for a meaningful type relationship, not merely to reduce lines."
+      },
+      "code": "class Animal:\n    def sound(self):\n        return \"sound\"\nclass Dog(Animal):\n    def sound(self):\n        return \"woof\"\nprint(Dog().sound())",
+      "token": "class",
+      "kind": "code",
+      "output": "woof",
+      "blank": "____ Animal:\n    def sound(self):\n        return \"sound\"\nclass Dog(Animal):\n    def sound(self):\n        return \"woof\"\nprint(Dog().sound())",
+      "variant": "class Animal:\n    def sound(self):\n        return \"sound\"\nclass Dog(Animal):\n    def sound(self):\n        return \"woof\"\nprint(Dog().sound())",
+      "variant_output": "woof",
+      "exercise_count": 4
+    },
+    {
+      "id": "c21-l001",
+      "chapter": 21,
+      "page": 147,
+      "title": {
+        "ar": "تعدد الأشكال مع len",
+        "en": "Polymorphism with len"
+      },
+      "explanation": {
+        "ar": "يمكن لواجهة واحدة أن تعمل مع أنواع مختلفة. len يحسب عدد العناصر بحسب نوع الكائن.",
+        "en": "One interface can work with multiple types; len counts items according to the object type."
+      },
+      "code": "print(len(\"Hello\"))\nprint(len((1, 2)))\nprint(len({\"a\": 1}))",
+      "token": "len",
+      "kind": "code",
+      "output": "5\n2\n1",
+      "blank": "print(____(\"Hello\"))\nprint(len((1, 2)))\nprint(len({\"a\": 1}))",
+      "variant": "print(len(\"Hello\"))\nprint(len((1, 2)))\nprint(len({\"a\": 1}))",
+      "variant_output": "5\n2\n1",
+      "exercise_count": 4
+    },
+    {
+      "id": "c21-l002",
+      "chapter": 21,
+      "page": 148,
+      "title": {
+        "ar": "واجهة مشتركة لعدة أصناف",
+        "en": "A shared interface across classes"
+      },
+      "explanation": {
+        "ar": "قد تقدّم أصناف مختلفة طريقة بالاسم نفسه؛ تستدعي الحلقة الطريقة دون الحاجة إلى معرفة التنفيذ الداخلي.",
+        "en": "Different classes can provide the same method name; a loop calls the interface without knowing each implementation."
+      },
+      "code": "class Car:\n    def move(self):\n        return \"Drive\"\nclass Boat:\n    def move(self):\n        return \"Sail\"\nfor obj in [Car(), Boat()]:\n    print(obj.move())",
+      "token": "move",
+      "kind": "code",
+      "output": "Drive\nSail",
+      "blank": "class Car:\n    def ____(self):\n        return \"Drive\"\nclass Boat:\n    def move(self):\n        return \"Sail\"\nfor obj in [Car(), Boat()]:\n    print(obj.move())",
+      "variant": "class Car:\n    def move(self):\n        return \"Drive\"\nclass Boat:\n    def move(self):\n        return \"Sail\"\nfor obj in [Car(), Boat()]:\n    print(obj.move())",
+      "variant_output": "Drive\nSail",
+      "exercise_count": 4
+    },
+    {
+      "id": "c22-l001",
+      "chapter": 22,
+      "page": 150,
+      "title": {
+        "ar": "النطاق المحلي والعام",
+        "en": "Local and global scope"
+      },
+      "explanation": {
+        "ar": "الاسم المسند داخل دالة محلي افتراضيًا؛ يمكن أن يختلف عن اسم عام مماثل دون تغييره.",
+        "en": "An assignment in a function is local by default; it can shadow a global name without changing it."
+      },
+      "code": "x = 300\ndef f():\n    x = 200\n    print(x)\nf()\nprint(x)",
+      "token": "x",
+      "kind": "code",
+      "output": "200\n300",
+      "blank": "____ = 300\ndef f():\n    x = 200\n    print(x)\nf()\nprint(x)",
+      "variant": "x = 300\ndef f():\n    x = 200\n    print(x)\nf()\nprint(x)",
+      "variant_output": "200\n300",
+      "exercise_count": 4
+    },
+    {
+      "id": "c22-l002",
+      "chapter": 22,
+      "page": 151,
+      "title": {
+        "ar": "global وnonlocal",
+        "en": "global and nonlocal"
+      },
+      "explanation": {
+        "ar": "global يشير إلى اسم في الوحدة. nonlocal يشير إلى اسم موجود في نطاق دالة خارجية، وليس إلى اسم عام.",
+        "en": "global refers to the module scope. nonlocal refers to an existing binding in an enclosing function, not the global scope."
+      },
+      "code": "def outer():\n    x = \"John\"\n    def inner():\n        nonlocal x\n        x = \"Jane\"\n    inner()\n    return x\nprint(outer())",
+      "token": "nonlocal",
+      "kind": "code",
+      "output": "Jane",
+      "blank": "def outer():\n    x = \"John\"\n    def inner():\n        ____ x\n        x = \"Jane\"\n    inner()\n    return x\nprint(outer())",
+      "variant": "def outer():\n    x = \"John\"\n    def inner():\n        nonlocal x\n        x = \"Jane\"\n    inner()\n    return x\nprint(outer())",
+      "variant_output": "Jane",
+      "exercise_count": 4
+    },
+    {
+      "id": "c23-l001",
+      "chapter": 23,
+      "page": 153,
+      "title": {
+        "ar": "الاستيراد وإنشاء وحدة",
+        "en": "Importing and creating modules"
+      },
+      "explanation": {
+        "ar": "الوحدة ملف .py يحتوي تعريفات قابلة لإعادة الاستخدام. import يحمّل وحدة، ثم نصل إلى محتواها بالنقطة. في التطبيق المصغّر نستعمل وحدة مدمجة.",
+        "en": "A module is a .py file with reusable definitions. import loads it and dot notation accesses its contents. This small example uses a built-in module."
+      },
+      "code": "import math\nprint(math.sqrt(64))",
+      "token": "import",
+      "kind": "code",
+      "output": "8.0",
+      "blank": "____ math\nprint(math.sqrt(64))",
+      "variant": "import math\nprint(math.sqrt(64))",
+      "variant_output": "8.0",
+      "exercise_count": 4
+    },
+    {
+      "id": "c23-l002",
+      "chapter": 23,
+      "page": 154,
+      "title": {
+        "ar": "الأسماء البديلة والاستيراد الجزئي",
+        "en": "Aliases and selective imports"
+      },
+      "explanation": {
+        "ar": "as يعطي اسمًا بديلًا، وfrom يستورد اسمًا محددًا. dir يعرض الأسماء المتاحة في الكائن.",
+        "en": "as assigns an alias; from imports selected names. dir lists available attribute names."
+      },
+      "code": "import math as m\nfrom math import ceil\nprint(m.floor(2.9))\nprint(ceil(2.1))\nprint(\"sqrt\" in dir(m))",
+      "token": "import",
+      "kind": "code",
+      "output": "2\n3\nTrue",
+      "blank": "____ math as m\nfrom math import ceil\nprint(m.floor(2.9))\nprint(ceil(2.1))\nprint(\"sqrt\" in dir(m))",
+      "variant": "import math as m\nfrom math import ceil\nprint(m.floor(2.9))\nprint(ceil(2.1))\nprint(\"sqrt\" in dir(m))",
+      "variant_output": "2\n3\nTrue",
+      "exercise_count": 4
+    },
+    {
+      "id": "c24-l001",
+      "chapter": 24,
+      "page": 155,
+      "title": {
+        "ar": "الدوال الرياضية المضمنة",
+        "en": "Built-in math functions"
+      },
+      "explanation": {
+        "ar": "min وmax لاختيار الأصغر والأكبر، وabs للقيمة المطلقة، وpow للأس.",
+        "en": "min and max choose extremes, abs gives absolute value and pow computes a power."
+      },
+      "code": "print(min(5, 10, 25))\nprint(max(5, 10, 25))\nprint(abs(-7))\nprint(pow(2, 3))",
+      "token": "abs",
+      "kind": "code",
+      "output": "5\n25\n7\n8",
+      "blank": "print(min(5, 10, 25))\nprint(max(5, 10, 25))\nprint(____(-7))\nprint(pow(2, 3))",
+      "variant": "print(min(6, 10, 25))\nprint(max(5, 10, 25))\nprint(abs(-7))\nprint(pow(2, 3))",
+      "variant_output": "6\n25\n7\n8",
+      "exercise_count": 4
+    },
+    {
+      "id": "c24-l002",
+      "chapter": 24,
+      "page": 156,
+      "title": {
+        "ar": "وحدة math",
+        "en": "The math module"
+      },
+      "explanation": {
+        "ar": "sqrt للجذر التربيعي، وceil للتقريب نحو الأعلى، وfloor نحو الأسفل، وpi ثابت تقريبي.",
+        "en": "sqrt is square root, ceil rounds upward, floor rounds downward and pi is an approximate constant."
+      },
+      "code": "import math\nprint(math.sqrt(64))\nprint(math.ceil(1.4))\nprint(math.floor(1.4))\nprint(round(math.pi, 2))",
+      "token": "math",
+      "kind": "code",
+      "output": "8.0\n2\n1\n3.14",
+      "blank": "import ____\nprint(math.sqrt(64))\nprint(math.ceil(1.4))\nprint(math.floor(1.4))\nprint(round(math.pi, 2))",
+      "variant": "import math\nprint(math.sqrt(64))\nprint(math.ceil(1.4))\nprint(math.floor(1.4))\nprint(round(math.pi, 3))",
+      "variant_output": "8.0\n2\n1\n3.142",
+      "exercise_count": 4
+    },
+    {
+      "id": "c25-l001",
+      "chapter": 25,
+      "page": 157,
+      "title": {
+        "ar": "try وexcept",
+        "en": "try and except"
+      },
+      "explanation": {
+        "ar": "نضع العملية المحتملة للفشل في try ونعالج الاستثناء المناسب في except. تحديد نوع الاستثناء أدق من التقاط جميع الأخطاء.",
+        "en": "Put an operation that may fail in try and handle its specific exception in except. Specific exceptions are preferable to catching everything."
+      },
+      "code": "try:\n    print(1 / 0)\nexcept ZeroDivisionError:\n    print(\"Cannot divide by zero\")",
+      "token": "except",
+      "kind": "code",
+      "output": "Cannot divide by zero",
+      "blank": "try:\n    print(1 / 0)\n____ ZeroDivisionError:\n    print(\"Cannot divide by zero\")",
+      "variant": "try:\n    print(1 / 0)\nexcept ZeroDivisionError:\n    print(\"Cannot divide by zero\")",
+      "variant_output": "Cannot divide by zero",
+      "exercise_count": 4
+    },
+    {
+      "id": "c25-l002",
+      "chapter": 25,
+      "page": 158,
+      "title": {
+        "ar": "استثناءات متعددة وelse وfinally",
+        "en": "Multiple exceptions, else and finally"
+      },
+      "explanation": {
+        "ar": "تعمل else إذا انتهت try بلا استثناء. تعمل finally عند مغادرة الكتلة، سواء حدث استثناء أم لا في التدفق العادي.",
+        "en": "else runs if try completes without an exception. finally runs when leaving the block, whether or not an exception occurred in normal control flow."
+      },
+      "code": "try:\n    x = int(\"5\")\nexcept ValueError:\n    print(\"invalid\")\nelse:\n    print(x)\nfinally:\n    print(\"done\")",
+      "token": "finally",
+      "kind": "code",
+      "output": "5\ndone",
+      "blank": "try:\n    x = int(\"5\")\nexcept ValueError:\n    print(\"invalid\")\nelse:\n    print(x)\n____:\n    print(\"done\")",
+      "variant": "try:\n    x = int(\"5\")\nexcept ValueError:\n    print(\"invalid\")\nelse:\n    print(x)\nfinally:\n    print(\"done\")",
+      "variant_output": "5\ndone",
+      "exercise_count": 4
+    },
+    {
+      "id": "c25-l003",
+      "chapter": 25,
+      "page": 159,
+      "title": {
+        "ar": "رفع الاستثناء",
+        "en": "Raising exceptions"
+      },
+      "explanation": {
+        "ar": "raise يرفع استثناء صريحًا عند اكتشاف حالة غير مسموحة. يمكن تضمين رسالة توضّح السبب.",
+        "en": "raise explicitly signals an exception for an invalid condition and can include an explanatory message."
+      },
+      "code": "try:\n    raise ValueError(\"negative\")\nexcept ValueError as error:\n    print(str(error))",
+      "token": "raise",
+      "kind": "code",
+      "output": "negative",
+      "blank": "try:\n    ____ ValueError(\"negative\")\nexcept ValueError as error:\n    print(str(error))",
+      "variant": "try:\n    raise ValueError(\"negative\")\nexcept ValueError as error:\n    print(str(error))",
+      "variant_output": "negative",
+      "exercise_count": 4
+    },
+    {
+      "id": "c26-l001",
+      "chapter": 26,
+      "page": 160,
+      "title": {
+        "ar": "فتح ملف وقراءته وإغلاقه",
+        "en": "Opening, reading and closing files"
+      },
+      "explanation": {
+        "ar": "open يعيد كائن ملف. r للقراءة وw للكتابة مع مسح المحتوى السابق. with يغلق الملف عند مغادرة الكتلة. الملفات هنا افتراضية داخل المتصفح.",
+        "en": "open returns a file object. r reads; w writes and truncates. with closes on leaving the block. Here files live in the browser virtual filesystem."
+      },
+      "code": "with open(\"demo.txt\", \"w\") as f:\n    f.write(\"Hello\")\nwith open(\"demo.txt\", \"r\") as f:\n    print(f.read())",
+      "token": "open",
+      "kind": "code",
+      "output": "Hello",
+      "blank": "with ____(\"demo.txt\", \"w\") as f:\n    f.write(\"Hello\")\nwith open(\"demo.txt\", \"r\") as f:\n    print(f.read())",
+      "variant": "with open(\"demo.txt\", \"w\") as f:\n    f.write(\"Hello\")\nwith open(\"demo.txt\", \"r\") as f:\n    print(f.read())",
+      "variant_output": "Hello",
+      "exercise_count": 4
+    },
+    {
+      "id": "c26-l002",
+      "chapter": 26,
+      "page": 161,
+      "title": {
+        "ar": "القراءة الجزئية والأسطر",
+        "en": "Partial reads and lines"
+      },
+      "explanation": {
+        "ar": "read(n) يقرأ حتى n محرفًا في الوضع النصي. readline يقرأ سطرًا؛ يتقدّم موضع القراءة بعد كل استدعاء.",
+        "en": "read(n) reads up to n characters in text mode. readline reads a line; each call advances the file position."
+      },
+      "code": "with open(\"demo.txt\", \"w\") as f:\n    f.write(\"Hello\\nWorld\")\nwith open(\"demo.txt\") as f:\n    print(f.read(2))\n    print(f.readline().strip())",
+      "token": "read",
+      "kind": "code",
+      "output": "He\nllo",
+      "blank": "with open(\"demo.txt\", \"w\") as f:\n    f.write(\"Hello\\nWorld\")\nwith open(\"demo.txt\") as f:\n    print(f.____(2))\n    print(f.readline().strip())",
+      "variant": "with open('demo.txt', 'w') as f:\n    f.write('Hello\\nWorld')\nwith open('demo.txt') as f:\n    print(f.read(3))\n    print(f.readline().strip())",
+      "variant_output": "Hel\nlo",
+      "exercise_count": 4
+    },
+    {
+      "id": "c26-l003",
+      "chapter": 26,
+      "page": 162,
+      "title": {
+        "ar": "الإلحاق والإنشاء",
+        "en": "Appending and creating"
+      },
+      "explanation": {
+        "ar": "a يضيف في النهاية، وx ينشئ ملفًا جديدًا ويفشل إن كان موجودًا. w قد يمسح بيانات سابقة.",
+        "en": "a appends, x creates a new file and fails if it exists. w may erase existing content."
+      },
+      "code": "with open(\"demo.txt\", \"w\") as f:\n    f.write(\"Hello\")\nwith open(\"demo.txt\", \"a\") as f:\n    f.write(\" World\")\nwith open(\"demo.txt\") as f:\n    print(f.read())",
+      "token": "open",
+      "kind": "code",
+      "output": "Hello World",
+      "blank": "with ____(\"demo.txt\", \"w\") as f:\n    f.write(\"Hello\")\nwith open(\"demo.txt\", \"a\") as f:\n    f.write(\" World\")\nwith open(\"demo.txt\") as f:\n    print(f.read())",
+      "variant": "with open(\"demo.txt\", \"w\") as f:\n    f.write(\"Hello\")\nwith open(\"demo.txt\", \"a\") as f:\n    f.write(\" World\")\nwith open(\"demo.txt\") as f:\n    print(f.read())",
+      "variant_output": "Hello World",
+      "exercise_count": 4
+    },
+    {
+      "id": "c26-l004",
+      "chapter": 26,
+      "page": 163,
+      "title": {
+        "ar": "فحص الوجود وحذف ملف أو مجلد",
+        "en": "Checking and deleting files or folders"
+      },
+      "explanation": {
+        "ar": "os.path.exists يفحص الوجود، وos.remove يحذف ملفًا، وos.rmdir يحذف مجلدًا فارغًا. الأمثلة تعمل في مساحة افتراضية تُصفّر عند إعادة تشغيل المحرّك.",
+        "en": "os.path.exists checks existence, os.remove deletes a file and os.rmdir deletes an empty directory. Examples use a virtual workspace reset with the runtime."
+      },
+      "code": "import os\nwith open(\"demo.txt\", \"w\") as f:\n    f.write(\"Hello\")\nprint(os.path.exists(\"demo.txt\"))\nos.remove(\"demo.txt\")\nprint(os.path.exists(\"demo.txt\"))",
+      "token": "remove",
+      "kind": "code",
+      "output": "True\nFalse",
+      "blank": "import os\nwith open(\"demo.txt\", \"w\") as f:\n    f.write(\"Hello\")\nprint(os.path.exists(\"demo.txt\"))\nos.____(\"demo.txt\")\nprint(os.path.exists(\"demo.txt\"))",
+      "variant": "import os\nwith open(\"demo.txt\", \"w\") as f:\n    f.write(\"Hello\")\nprint(os.path.exists(\"demo.txt\"))\nos.remove(\"demo.txt\")\nprint(os.path.exists(\"demo.txt\"))",
+      "variant_output": "True\nFalse",
+      "exercise_count": 4
+    },
+    {
+      "id": "c27-l001",
+      "chapter": 27,
+      "page": 164,
+      "title": {
+        "ar": "JSON والتحويل إلى بايثون",
+        "en": "JSON and parsing to Python"
+      },
+      "explanation": {
+        "ar": "JSON صيغة نصية لتبادل البيانات. json.loads يحلل النص إلى كائنات بايثون؛ تستخدم JSON تنصيصًا مزدوجًا لأسماء المفاتيح والنصوص.",
+        "en": "JSON is a text data interchange format. json.loads parses it into Python objects; JSON keys and strings use double quotes."
+      },
+      "code": "import json\ndata = json.loads('{\"name\": \"John\", \"age\": 30}')\nprint(data[\"name\"])",
+      "token": "loads",
+      "kind": "code",
+      "output": "John",
+      "blank": "import json\ndata = json.____('{\"name\": \"John\", \"age\": 30}')\nprint(data[\"name\"])",
+      "variant": "import json\ndata = json.loads('{\"name\": \"John\", \"age\": 30}')\nprint(data[\"name\"])",
+      "variant_output": "John",
+      "exercise_count": 4
+    },
+    {
+      "id": "c27-l002",
+      "chapter": 27,
+      "page": 165,
+      "title": {
+        "ar": "التحويل إلى JSON",
+        "en": "Serializing to JSON"
+      },
+      "explanation": {
+        "ar": "json.dumps يحوّل القيم المدعومة إلى نص JSON. تتحول True إلى true، وNone إلى null، وtuple إلى مصفوفة JSON.",
+        "en": "json.dumps converts supported values to JSON text: True becomes true, None becomes null and tuples become arrays."
+      },
+      "code": "import json\nprint(json.dumps({\"ready\": True, \"value\": None}))",
+      "token": "dumps",
+      "kind": "code",
+      "output": "{\"ready\": true, \"value\": null}",
+      "blank": "import json\nprint(json.____({\"ready\": True, \"value\": None}))",
+      "variant": "import json\nprint(json.dumps({\"ready\": True, \"value\": None}))",
+      "variant_output": "{\"ready\": true, \"value\": null}",
+      "exercise_count": 4
+    },
+    {
+      "id": "c27-l003",
+      "chapter": 27,
+      "page": 167,
+      "title": {
+        "ar": "التنسيق والفواصل",
+        "en": "Indentation and separators"
+      },
+      "explanation": {
+        "ar": "indent يضيف تنسيقًا متعدد الأسطر، وseparators يتحكم بالفواصل. هذا يغيّر الشكل النصي لا معنى البيانات.",
+        "en": "indent pretty-prints; separators controls delimiters. Formatting changes the text, not the data meaning."
+      },
+      "code": "import json\nprint(json.dumps({\"a\": 1, \"b\": 2}, separators=(\",\", \":\")))",
+      "token": "dumps",
+      "kind": "code",
+      "output": "{\"a\":1,\"b\":2}",
+      "blank": "import json\nprint(json.____({\"a\": 1, \"b\": 2}, separators=(\",\", \":\")))",
+      "variant": "import json\nprint(json.dumps({'a': 2, 'b': 2}, separators=(',', ':')))",
+      "variant_output": "{\"a\":2,\"b\":2}",
+      "exercise_count": 4
+    },
+    {
+      "id": "c27-l004",
+      "chapter": 27,
+      "page": 169,
+      "title": {
+        "ar": "ترتيب مفاتيح JSON",
+        "en": "Sorting JSON keys"
+      },
+      "explanation": {
+        "ar": "sort_keys=True يرتب مفاتيح الكائن في الناتج النصي، ولا يحوّل القيم إلى ترتيب عددي.",
+        "en": "sort_keys=True sorts object keys in the output text; it does not sort the values numerically."
+      },
+      "code": "import json\nprint(json.dumps({\"b\": 2, \"a\": 1}, sort_keys=True))",
+      "token": "dumps",
+      "kind": "code",
+      "output": "{\"a\": 1, \"b\": 2}",
+      "blank": "import json\nprint(json.____({\"b\": 2, \"a\": 1}, sort_keys=True))",
+      "variant": "import json\nprint(json.dumps({'b': 3, 'a': 1}, sort_keys=True))",
+      "variant_output": "{\"a\": 1, \"b\": 3}",
+      "exercise_count": 4
+    }
+  ]
+}

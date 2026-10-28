@@ -1,0 +1,1 @@
+{"version":"0.2.0","configurations":[{"name":"Python Quest (local)","type":"debugpy","request":"launch","program":"${workspaceFolder}/app.py","console":"integratedTerminal","cwd":"${workspaceFolder}"}]}

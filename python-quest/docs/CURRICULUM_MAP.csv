@@ -1,0 +1,178 @@
+﻿lesson_id,chapter,title_ar,title_en,pdf_page,exercises
+c01-l001,1,ما هي بايثون؟ وتاريخها,What is Python? Its origins,3,3
+c01-l002,1,استخدامات بايثون,Python applications,4,3
+c02-l001,2,الميزات والمقارنة واختيار اللغة,"Features, comparisons and choosing a language",5,3
+c03-l001,3,التثبيت وسطر الأوامر,Installation and the command line,17,3
+c03-l002,3,الطباعة وتنفيذ الشيفرة,Printing and execution,18,4
+c03-l003,3,المسافة البادئة,Indentation,20,4
+c04-l001,4,التعليقات في سطر واحد,Single-line comments,22,4
+c04-l002,4,التعليقات متعددة الأسطر,Multiple comment lines,23,4
+c05-l001,5,إنشاء المتغير وتغيير قيمته,Creating and reassigning variables,24,4
+c05-l002,5,التحويل وفحص النوع,Casting and inspecting types,25,4
+c05-l003,5,التنصيص وحالة الأحرف,Quotes and case sensitivity,25,4
+c05-l004,5,الأسماء وأساليب كتابتها,Names and naming styles,26,4
+c05-l005,5,الإسناد المتعدد وفك القيم,Multiple assignment and unpacking,27,4
+c05-l006,5,إخراج المتغيرات,Displaying variables,28,4
+c05-l007,5,المتغير العام وglobal,Global names and global,29,4
+c06-l001,6,النص والعدد والمنطق,"Text, numbers and booleans",31,4
+c06-l002,6,أنواع المجموعات,Collection types,32,4
+c06-l003,6,range وNone والأنواع الثنائية,"range, None and binary types",34,4
+c06-l004,6,إنشاء القيم بالبواني,Constructing values,36,4
+c07-l001,7,الأعداد الصحيحة,Integers,39,4
+c07-l002,7,العشرية والمركبة,Floats and complex numbers,40,4
+c07-l003,7,التحويل بين الأنواع العددية,Numeric conversions,40,4
+c07-l004,7,الأعداد العشوائية,Random numbers,41,4
+c08-l001,8,النصوص متعددة الأسطر,Multiline strings,42,4
+c08-l002,8,الفهرسة وطول النص,String indexing and length,43,4
+c08-l003,8,التكرار والعضوية في النص,Iteration and membership,43,4
+c08-l004,8,تقطيع النص,String slicing,44,4
+c08-l005,8,دمج النصوص,Concatenating text,45,4
+c08-l006,8,الأحرف الكبيرة,Uppercase,45,4
+c08-l007,8,الأحرف الصغيرة,Lowercase,45,4
+c08-l008,8,إزالة الفراغات الطرفية,Strip outer whitespace,45,4
+c08-l009,8,استبدال النص,Replace text,45,4
+c08-l010,8,تقسيم النص,Split text,45,4
+c08-l011,8,تنسيق النص,Formatting text,46,4
+c08-l012,8,أحرف الهروب,Escape sequences,46,4
+c08-l013,8,تكبير أول حرف,Capitalize,47,4
+c08-l014,8,مقارنة بلا حالة أحرف,Case folding,47,4
+c08-l015,8,توسيط النص,Center text,48,4
+c08-l016,8,عدّ المطابقات,Count matches,48,4
+c08-l017,8,فحص النهاية,Check suffix,48,4
+c08-l018,8,توسيع الجدولة,Expand tabs,48,4
+c08-l019,8,البحث دون استثناء,Find a substring,49,4
+c08-l020,8,تنسيق باستخدام قاموس,Format from a mapping,49,4
+c08-l021,8,فهرس المطابقة,Substring index,50,4
+c08-l022,8,حروف وأرقام,Alphanumeric text,50,4
+c08-l023,8,حروف فقط,Alphabetic text,50,4
+c08-l024,8,محارف ASCII,ASCII characters,50,4
+c08-l025,8,أرقام عشرية نصية,Decimal digits,50,4
+c08-l026,8,فحص رموز الأرقام,Digit characters,50,4
+c08-l027,8,صلاحية شكل الاسم,Identifier shape,50,4
+c08-l028,8,فحص الأحرف الصغيرة,Check lowercase,51,4
+c08-l029,8,المحارف العددية,Numeric characters,51,4
+c08-l030,8,قابلية الطباعة,Printable text,51,4
+c08-l031,8,الفراغات فقط,Whitespace only,51,4
+c08-l032,8,حالة العنوان,Title case,51,4
+c08-l033,8,فحص الأحرف الكبيرة,Check uppercase,51,4
+c08-l034,8,وصل العناصر,Join strings,51,4
+c08-l035,8,محاذاة إلى اليسار,Left justify,52,4
+c08-l036,8,تنظيف بداية النص,Strip the left side,52,4
+c08-l037,8,جدول ترجمة المحارف,Character translation table,52,4
+c08-l038,8,تقسيم إلى ثلاثة أجزاء,Partition into three parts,52,4
+c08-l039,8,آخر موضع دون استثناء,Find the last match,54,4
+c08-l040,8,فهرس آخر مطابقة,Index of the last match,54,4
+c08-l041,8,محاذاة إلى اليمين,Right justify,54,4
+c08-l042,8,تقسيم عند آخر فاصل,Partition at the last separator,54,4
+c08-l043,8,تقسيم من اليمين,Split from the right,55,4
+c08-l044,8,تنظيف نهاية النص,Strip the right side,55,4
+c08-l045,8,تقسيم الأسطر,Split lines,56,4
+c08-l046,8,فحص البداية,Check prefix,57,4
+c08-l047,8,عكس حالة الأحرف,Swap character case,57,4
+c08-l048,8,تحويل إلى حالة العنوان,Convert to title case,58,4
+c08-l049,8,ترجمة المحارف,Translate characters,58,4
+c08-l050,8,إكمال بالأصفار,Zero padding,58,4
+c09-l001,9,المقارنات والقيم المنطقية,Comparisons and boolean values,59,4
+c09-l002,9,تحويل القيم إلى bool,Truth-value testing,60,4
+c09-l003,9,إرجاع قيمة منطقية وفحص النوع,Returning booleans and type checks,61,4
+c10-l001,10,الحساب,Arithmetic,63,4
+c10-l002,10,الإسناد المركّب,Augmented assignment,63,4
+c10-l003,10,المقارنة والمنطق,Comparison and logic,64,4
+c10-l004,10,الهوية والعضوية,Identity and membership,65,4
+c10-l005,10,المعاملات الثنائية,Bitwise operators,66,4
+c10-l006,10,الأسبقية,Precedence,67,4
+c11-l001,11,إنشاء القائمة وخصائصها,List creation and properties,68,4
+c11-l002,11,الوصول والتقطيع والعضوية,"List access, slicing and membership",70,4
+c11-l003,11,تغيير عنصر أو نطاق,Replacing items and slices,72,4
+c11-l004,11,الإدراج,Insert,73,4
+c11-l005,11,إضافة عنصر,Append,73,4
+c11-l006,11,توسيع القائمة,Extend,73,4
+c11-l007,11,حذف حسب القيمة,Remove by value,74,4
+c11-l008,11,حذف حسب الفهرس,Pop by index,74,4
+c11-l009,11,إفراغ القائمة,Clear,75,4
+c11-l010,11,حلقات القوائم,List loops,75,4
+c11-l011,11,فهم القوائم,List comprehensions,76,4
+c11-l012,11,الفرز ومفتاحه,Sort and sort keys,78,4
+c11-l013,11,عكس الترتيب,Reverse,79,4
+c11-l014,11,نسخ القائمة,Copy,80,4
+c11-l015,11,ربط القوائم وdel,Joining lists and del,80,4
+c11-l016,11,عدّ عناصر القائمة,Count list items,81,4
+c11-l017,11,موضع عنصر القائمة,Find a list item,81,4
+c12-l001,12,إنشاء الصف الثابت,Creating tuples,82,4
+c12-l002,12,الوصول إلى الصفوف,Tuple access,84,4
+c12-l003,12,إعادة بناء الصف,Rebuilding a tuple,85,4
+c12-l004,12,فك الصف والنجمة,Tuple unpacking and starred targets,87,4
+c12-l005,12,تكرار الصف وربطه ومضاعفته,"Tuple iteration, joining and repetition",88,4
+c12-l006,12,count وindex للصفوف,Tuple count and index,89,4
+c13-l001,13,خصائص المجموعات,Set properties,90,4
+c13-l002,13,إضافة عنصر للمجموعة,Add a set item,93,4
+c13-l003,13,تحديث المجموعة,Update a set,93,4
+c13-l004,13,حذف عنصر موجود,Remove a set item,93,4
+c13-l005,13,حذف دون خطأ عند الغياب,Discard a set item,94,4
+c13-l006,13,سحب عنصر غير محدّد,Pop an arbitrary item,94,4
+c13-l007,13,إفراغ المجموعة,Clear a set,94,4
+c13-l008,13,الاتحاد,Union,95,4
+c13-l009,13,التقاطع,Intersection,96,4
+c13-l010,13,تحديث التقاطع,Intersection update,96,4
+c13-l011,13,الفرق,Difference,97,4
+c13-l012,13,تحديث الفرق,Difference update,97,4
+c13-l013,13,الفرق التناظري,Symmetric difference,98,4
+c13-l014,13,تحديث الفرق التناظري,Symmetric difference update,98,4
+c13-l015,13,نسخ المجموعة,Copy a set,99,4
+c13-l016,13,عدم وجود تقاطع,Disjoint sets,100,4
+c13-l017,13,المجموعة الجزئية,Subset,101,4
+c13-l018,13,المجموعة الشاملة,Superset,102,4
+c14-l001,14,إنشاء القاموس وخصائصه,Creating dictionaries,104,4
+c14-l002,14,get والمفاتيح والقيم والعناصر,"get, keys, values and items",106,4
+c14-l003,14,تعديل القاموس وتحديثه,Changing and updating dictionaries,108,4
+c14-l004,14,حذف عناصر القاموس,Removing dictionary items,109,4
+c14-l005,14,الحلقات والنسخ,Dictionary loops and copying,110,4
+c14-l006,14,القواميس المتداخلة,Nested dictionaries,111,4
+c14-l007,14,fromkeys وsetdefault,fromkeys and setdefault,113,4
+c15-l001,15,if وelif وelse,"if, elif and else",115,4
+c15-l002,15,الصياغة الشرطية المختصرة,Conditional expressions,116,4
+c15-l003,15,ربط الشروط ونفيها,Combining and negating conditions,117,4
+c15-l004,15,التداخل وpass,Nested conditions and pass,118,4
+c16-l001,16,حلقة while,while loops,119,4
+c16-l002,16,break وcontinue في while,break and continue in while,119,4
+c16-l003,16,for وrange,for and range,120,4
+c16-l004,16,التحكم في for,Control inside for,121,4
+c16-l005,16,else في الحلقات,Loop else,122,4
+c16-l006,16,الحلقات المتداخلة,Nested loops,122,4
+c17-l001,17,تعريف الدالة واستدعاؤها,Defining and calling functions,123,4
+c17-l002,17,الوسائط والقيم الافتراضية,Arguments and defaults,124,4
+c17-l003,17,args وkwargs,args and kwargs,124,4
+c17-l004,17,تمرير قائمة وإرجاع قيمة,Passing lists and returning values,125,4
+c17-l005,17,الوسائط الموضعية والمسماة فقط,Positional-only and keyword-only parameters,126,4
+c17-l006,17,العودية وحالة الإنهاء,Recursion and base cases,127,4
+c17-l007,17,lambda,Lambda expressions,129,4
+c17-l008,17,lambda مع map وfilter وsorted,"Lambda with map, filter and sorted",130,4
+c18-l001,18,المصفوفات في أمثلة الكتاب,Arrays in the book examples,132,4
+c18-l002,18,التكرار وطرق المصفوفات,Array-style iteration and methods,133,4
+c19-l001,19,تعريف الصنف وإنشاء كائن,Classes and instances,135,4
+c19-l002,19,التهيئة وself,Initialization and self,135,4
+c19-l003,19,الطرق و__str__,Methods and __str__,136,4
+c19-l004,19,تعديل الخصائص وحذفها,Editing and deleting attributes,137,4
+c19-l005,19,مثال صنف متكامل,A complete class example,138,4
+c20-l001,20,وراثة صنف,Inheriting a class,141,4
+c20-l002,20,super وإضافة الخصائص,super and extra attributes,142,4
+c20-l003,20,إعادة تعريف السلوك,Overriding behavior,143,4
+c21-l001,21,تعدد الأشكال مع len,Polymorphism with len,147,4
+c21-l002,21,واجهة مشتركة لعدة أصناف,A shared interface across classes,148,4
+c22-l001,22,النطاق المحلي والعام,Local and global scope,150,4
+c22-l002,22,global وnonlocal,global and nonlocal,151,4
+c23-l001,23,الاستيراد وإنشاء وحدة,Importing and creating modules,153,4
+c23-l002,23,الأسماء البديلة والاستيراد الجزئي,Aliases and selective imports,154,4
+c24-l001,24,الدوال الرياضية المضمنة,Built-in math functions,155,4
+c24-l002,24,وحدة math,The math module,156,4
+c25-l001,25,try وexcept,try and except,157,4
+c25-l002,25,استثناءات متعددة وelse وfinally,"Multiple exceptions, else and finally",158,4
+c25-l003,25,رفع الاستثناء,Raising exceptions,159,4
+c26-l001,26,فتح ملف وقراءته وإغلاقه,"Opening, reading and closing files",160,4
+c26-l002,26,القراءة الجزئية والأسطر,Partial reads and lines,161,4
+c26-l003,26,الإلحاق والإنشاء,Appending and creating,162,4
+c26-l004,26,فحص الوجود وحذف ملف أو مجلد,Checking and deleting files or folders,163,4
+c27-l001,27,JSON والتحويل إلى بايثون,JSON and parsing to Python,164,4
+c27-l002,27,التحويل إلى JSON,Serializing to JSON,165,4
+c27-l003,27,التنسيق والفواصل,Indentation and separators,167,4
+c27-l004,27,ترتيب مفاتيح JSON,Sorting JSON keys,169,4
